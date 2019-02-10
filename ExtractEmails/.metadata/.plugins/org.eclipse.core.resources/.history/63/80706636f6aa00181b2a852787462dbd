@@ -1,0 +1,40 @@
+import java.util.ArrayList;
+import java.util.List;
+import java.util.LinkedList;
+
+
+public class Stack {
+	Node<Integer> head;
+	List<Node<Integer>> list;
+	 public Stack() {
+		head = null;
+		list = new ArrayList();
+	}
+	 public void push(int x){
+		 
+		 Node<Integer> newNode = new Node<Integer>(x,null);
+		 if(list.isEmpty()){
+			 head = newNode;
+		 }
+		 Node<Integer> lastNode = getTheLastNode(newNode);
+		 lastNode.nextPointer = newNode;
+		 list.add(newNode);		 
+	 }
+	private Node<Integer> getTheTopNode(Node<Integer> headNode) {
+		
+	}
+	 
+	 public Node<Integer> pop() {
+		 Node<Integer> lastNode = getTheLastNode(newNode);
+	}
+	 public Node<Integer> top() {
+		 Node<Integer> temp  = this.head;		
+		 while(temp.nextPointer != null){
+			 temp = temp.nextPointer;
+		 }		
+		 return temp;
+	}
+	 public int getMin(){
+		 
+	 }
+}

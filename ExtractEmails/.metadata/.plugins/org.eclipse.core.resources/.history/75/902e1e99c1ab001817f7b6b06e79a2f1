@@ -1,0 +1,62 @@
+import java.util.LinkedList;
+import java.util.Queue;
+import java.util.Stack;
+
+public class StackUsingQueues {
+
+	public Queue<Integer> queue;
+	public Queue<Integer> tempQueue;
+	int top = 0;
+	public StackUsingQueues() {
+		queue = new LinkedList<Integer>();
+		tempQueue = new LinkedList<Integer>();
+	}
+	public void push(int x) {
+		queue.add(x);
+		this.top = x;
+	}
+	
+	public int pop() {
+		while (!this.queue.isEmpty()) {
+			int dequedElement = this.queue.remove();
+			if(dequedElement == this.top){
+				while(!tempQueue.isEmpty()){
+					int removedEle = tempQueue.remove();
+					queue.add(removedEle);
+					this.top = removedEle;
+				}				
+				return dequedElement;
+			}
+			else {
+				tempQueue.add(dequedElement);
+			}
+		}
+		return 0;
+	}
+	
+	public int top() {
+		while (!this.queue.isEmpty()) {
+			Object[] a = queue.toArray();
+			if(a.length > 0){
+				return Integer.parseInt(a[0].toString());
+			}
+			break;
+		}
+		return 0;
+	}
+	public boolean empty() {
+	     return this.queue.isEmpty();
+	}
+	
+	public static void main(String[] args) {
+		StackUsingQueues stack = new StackUsingQueues();
+
+		stack.push(1);
+		stack.push(2);  
+		stack.top();   // returns 2
+		stack.pop();   // returns 2
+		stack.empty();
+
+	}
+
+}

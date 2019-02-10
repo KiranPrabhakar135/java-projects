@@ -1,0 +1,24 @@
+import java.util.LinkedList;
+import java.util.Queue;
+
+public class StackUsingQueues {
+
+	public Queue<Integer> queue = new LinkedList<Integer>();
+	/*public Queue<Integer> tempQueue = new LinkedList<Integer>();
+	int top = 0;
+	public void push(int x) {
+		queue.add(x);
+		top = x;
+	}
+	
+	public int pop() {
+		queue.
+		return 0;
+	}*/
+	
+	public static void main(String[] args) {
+		
+
+	}
+
+}

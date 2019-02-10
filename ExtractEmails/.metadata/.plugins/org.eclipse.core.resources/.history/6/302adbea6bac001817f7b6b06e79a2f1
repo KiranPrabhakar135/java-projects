@@ -1,0 +1,12 @@
+/**
+ * 
+ */
+package FrequencyStack;
+
+/**
+ * @author kiran
+ *
+ */
+public enum FreqStack {
+
+}

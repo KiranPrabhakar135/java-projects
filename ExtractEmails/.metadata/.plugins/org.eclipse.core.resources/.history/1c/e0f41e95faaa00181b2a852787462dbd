@@ -1,0 +1,54 @@
+import java.util.ArrayList;
+import java.util.List;
+
+public class Stack {
+	Node<Integer> head;
+	List<Node<Integer>> list;
+	 public Stack() {
+		head = null;
+		list = new ArrayList<Node<Integer>>();
+	}
+	 public void push(int x){		 
+		 Node<Integer> newNode = new Node<Integer>(x,null);
+		 if(list.isEmpty()){
+			 head = newNode;
+		 }
+		 Node<Integer> lastNode = this.top();
+		 lastNode.nextPointer = newNode;
+		 list.add(newNode);		 
+	 }
+		 
+	 public Node<Integer> pop() {
+		 Node<Integer> lastNode = this.top();
+		 Node<Integer> lastButOneNode = null;
+		 Node<Integer> temp  = this.head;		
+		 while(temp.nextPointer.nextPointer != null){
+			 lastButOneNode = temp;
+		 }	
+		 list.remove(lastNode);
+		 if(lastButOneNode != null){
+			 lastButOneNode.nextPointer = null;
+		 }
+		 return lastNode;
+	}
+	 
+	 public Node<Integer> top() {
+		 Node<Integer> temp  = this.head;		
+		 while(temp.nextPointer != null){
+			 temp = temp.nextPointer;
+		 }		
+		 return temp;
+	}
+	 
+	 public int getMin(){
+		 int min = 0;
+		 Node<Integer> temp  = this.head;		 
+		 while(temp.nextPointer != null){
+			 if(temp.nodeValue < temp.nextPointer.nodeValue){
+				 min = temp.nodeValue;
+			 }
+			 temp = temp.nextPointer;
+		 }
+		 return min;
+	 }
+}

@@ -1,0 +1,90 @@
+import java.io.Console;
+import java.io.IOException;
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Scanner;
+
+public class Stack<T> {
+	Node<T> head;
+	List<Node<T>> list;
+	 public Stack() {
+		head = null;
+		list = new ArrayList<Node<T>>();
+	}
+	 public void push(T x){		 
+		 Node<T> newNode = new Node<T>(x,null);
+		 if(list.isEmpty()){
+			 head = newNode;
+		 }
+		 Node<T> lastNode = this.top();
+		 lastNode.nextPointer = newNode;
+		 list.add(newNode);		 
+	 }
+		 
+	 public Node<T> pop() {
+		 Node<T> lastNode = this.top();
+		 Node<T> lastButOneNode = null;
+		 Node<T> temp  = this.head;		
+		 while(temp.nextPointer.nextPointer != null){
+			 lastButOneNode = temp;
+		 }	
+		 list.remove(lastNode);
+		 if(lastButOneNode != null){
+			 lastButOneNode.nextPointer = null;
+		 }
+		 return lastNode;
+	}
+	 
+	 public Node<T> top() {
+		 Node<T> temp  = this.head;		
+		 while(temp.nextPointer != null){
+			 temp = temp.nextPointer;
+		 }		
+		 return temp;
+	}
+	 
+	 public int getMin(){
+		 
+			 int min = 0;
+			 Node<T> temp  = this.head;	
+			 
+			 while(temp.nextPointer != null){
+				 if(Integer.valueOf((temp.nodeValue.toString())) <
+						 Integer.valueOf(temp.nextPointer.nodeValue.toString())){
+					 min = Integer.valueOf(temp.nodeValue.toString());
+				 }
+				 temp = temp.nextPointer;
+			 }
+			 return min; 
+		 
+		 
+	 }
+	 public static void main (String args[]) throws IOException, NullPointerException{
+		 Stack<Integer> stack = new Stack<Integer>();
+		 System.out.println("Enter the element to push and 'c' to cancel");
+		 Scanner in = new Scanner(System.in);
+		String s = in.nextLine();
+		 while(in.nextLine() != "c"){
+			 String inp = String.valueOf(in.nextLine());
+			 int inputInt;
+			try {
+				inputInt = Integer.getInteger(inp);
+				stack.push(inputInt);	
+			} 
+			catch (Exception e) 
+			{
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+			 		 
+		 }
+		 System.out.println("Enter p to pop element");
+		 while(in.nextLine() == "p"){
+			 stack.pop();			 
+		 }
+		 System.out.println("Enter m to pop element");
+		 if(in.nextLine() == "m"){
+			 stack.getMin();			 
+		 }
+	 }
+}

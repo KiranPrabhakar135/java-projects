@@ -1,0 +1,532 @@
+
+<!DOCTYPE HTML><html lang="en" class="ubcms-63"><!-- cmspub03 0201-165744 --><head><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta http-equiv="content-type" content="text/html; charset=UTF-8"><meta id="meta-viewport" name="viewport" content="width=device-width,initial-scale=1"><script>if (screen.width > 720 && screen.width < 960) document.getElementById('meta-viewport').setAttribute('content','width=960');</script><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-T5KRRKT');</script><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-PRK43Q ');</script><title>Faculty Directory - Department of Electrical Engineering - University at Buffalo</title><link rel="canonical" href="http://engineering.buffalo.edu/ee/faculty/faculty_directory.html"><meta name="description" content="Our faculty are at the forefront of discovery in their fields, garnering accolades from international, federal and local organizations. At EE, the faculty making discoveries in the lab are the same faculty teaching in the classroom."><meta name="date" content="2019-01-29"><meta name="og:title" content="Faculty Directory"><meta name="og:description" content="Our faculty are at the forefront of discovery in their fields, garnering accolades from international, federal and local organizations. At EE, the faculty making discoveries in the lab are the same faculty teaching in the classroom."><meta name="twitter:card" content="summary"><link rel="stylesheet" href="//www.buffalo.edu/v-bacae99eba57994923faf054bbf25b74/etc/designs/ubcms/clientlibs.min.bacae99eba57994923faf054bbf25b74.css" type="text/css"><link type="text/css" rel="stylesheet" href="//www.buffalo.edu/v-cb5a3ebd6c1892e726061552e03d1606/etc/designs/engineering/ee/css/main.css"/><script type="text/javascript" src="//www.buffalo.edu/v-9fdc538df3d7c0912c31942ad4a32925/etc/designs/ubcms/clientlibs.min.9fdc538df3d7c0912c31942ad4a32925.js"></script><script type="text/javascript">
+        /*<![CDATA[*/
+        (function() {
+            var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+            sz.src = '//siteimproveanalytics.com/js/siteanalyze_75159.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+        })();
+        /*]]>*/
+    </script></head><body class="contentpage page"><noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T5KRRKT"height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PRK43Q "height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><nav aria-label="skip to content"><a href="#skip-to-content" id="skip-to-content-link">Skip to Content</a></nav><div id="page"><div class="page-inner"><div class="page-inner-1"><div class="page-inner-2"><div class="page-inner-2a"></div><div class="page-inner-3"><header><div class="innerheader inheritedreference reference parbase"><div class="headerconfigpage contentpage page"><div class="par parsys"><div class="header section"><style>
+            .innerheader { padding-top: 158px }
+            .header { height: 158px }
+            .header .main { height: 134px }
+        </style><div><div class="top theme-blue" data-set="header-links"><ul class="school-links"><li><a href="/">School of Engineering and Applied Sciences</a></li></ul><ul class="pervasive-links"><li><a href="//www.buffalo.edu">UB Home</a></li><li><a href="//www.buffalo.edu/maps">Maps</a></li><li><a href="//www.buffalo.edu/directory/">UB Directory</a></li></ul></div><div class="main theme-blue brand-extension lines-1"><div class="lockup"><a href="//www.buffalo.edu"> <i class="icon icon-ub-logo"></i> <span class="logo"> <img class="black" src="//www.buffalo.edu/v-be9166b6b4a1ea7e5771e2eba1d410cf/etc/designs/ubcms/images/header/ub-logo-black.png" alt="University at Buffalo" width="181" height="20"> </span> </a><div class="mobile-links" data-set="header-links"></div><div class="title"><a href="/ee.html">Department of Electrical Engineering</a></div></div><div class="social" data-set="headersocial"></div><div class="tasknav" data-set="tasknav"><div class="buttoncomponent sidebyside orange"><a href="/ee/information-for-prospective-students.html">Apply Now</a></div><div class="buttoncomponent sidebyside blue"><a href="/ee/about-us/contact-us.html">Contact Us</a></div><div class="buttoncomponent sidebyside gray"><a href="http://www.buffalo.edu/giving.html" target="_blank">Give to UB</a></div></div></div></div></div><div class="mobilemenu section"><!--noindex--><nav aria-label="mobile navigation menu"><ul><li class="mobileheader-button-menu" style="display: none"><a href="#">Menu</a></li><li class="mobileheader-button-search" style="display: none"><a href="#">Search</a></li></ul></nav><!--endnoindex--><div id="mobile-search" class="menu"><div id="mobile-search-inner" class="menu-inner" data-set="mobile-search"></div></div><div id="mobile-menu" class="menu"><div class="menu-inner"><div id="mobile-menu-inner"><div class="loading"><!--noindex-->Loading menu...<!--endnoindex--></div></div><div class="tasknav" data-set="tasknav"></div><div class="headersocial" data-set="headersocial"></div></div></div><script>
+    jQuery('.mobileheader-button-menu').removeAttr('style');
+    jQuery(document).ready(function() {
+        if ($('.topnav .search .form').length > 0) {
+            $('.mobileheader-button-search').removeAttr('style');
+        }
+    });
+    UBCMS.rwd.mobileMenu.load('\/content\/engineering\/ee\/jcr:content.nav.html', 'http:\/\/engineering.buffalo.edu\/ee\/faculty\/faculty_directory.html');
+</script></div><div class="topnav section"><nav class="topnav-inner" aria-label="site navigation"><div class="main"><ul class="menu"><li class="first theme-primary theme-harriman-blue"><a id="ubcms-gen-3739673641" aria-haspopup="true" href="/ee/about-us.html"><span class="container">About Us</span></a><div class="topnav-submenu-container" aria-labelledby="ubcms-gen-3739673641"><ul class="submenu clearfix"><li class="first"><a aria-label="About Us:Chair's Welcome" href="/ee/about-us/welcome.html">Chair's Welcome</a></li><li><a aria-label="About Us:Why Study Electrical Engineering at UB?" href="/ee/about-us/why-choose.html">Why Study Electrical Engineering at UB?</a></li><li><a aria-label="About Us:Our Mission" href="/ee/about-us/our-mission.html">Our Mission</a></li><li><a aria-label="About Us:Leadership and Administration" href="/ee/about-us/staff_directory.html">Leadership and Administration</a></li><li><a aria-label="About Us:Our Students and Alumni" href="/ee/about-us/our-students-and-alumni.html">Our Students and Alumni</a></li><li><a aria-label="About Us:Our Advisory Board" href="/ee/about-us/our-advisory-board.html">Our Advisory Board</a></li><li><a aria-label="About Us:About the University" href="/ee/about-us/about-the-university.html">About the University</a></li><li><a aria-label="About Us:About Buffalo-Niagara" href="/ee/about-us/the-buffalo-niagara-region.html">About Buffalo-Niagara</a></li><li><a aria-label="About Us:EE Meeting Facilities" href="/ee/about-us/ee-meeting-facilities.html">EE Meeting Facilities</a></li><li class="last"><a aria-label="About Us:Contact Us" href="/ee/about-us/contact-us.html">Contact Us</a></li></ul><div class="relatedLinks relatedlinksreference reference parbase"><div class="nav-related-links"><!--noindex--><div class="subnav-title">Related Links</div><!--endnoindex--><div class="relatedlinkspage unstructuredpage page"><div class="par parsys"><div class="relatedlinks list parbase section"><div id="ubcms-gen-3739673734"><ul class="link-list" data-columnize="1"><li><span class="teaser teaser-inline"> <a href="/ee/faculty/faculty_directory.html"> <span class="teaser-inner"> <!--noindex--> <span class="teaser-date">1/29/19</span> <!--endnoindex--> <span class="teaser-title">Faculty Directory</span> </span> </a> </span></li><li><span class="teaser teaser-inline"> <a href="/ee/faculty/staff_directory.html"> <span class="teaser-inner"> <!--noindex--> <span class="teaser-date">1/25/19</span> <!--endnoindex--> <span class="teaser-title">Staff Directory</span> </span> </a> </span></li><li><span class="teaser teaser-inline"> <a href="/ee/faculty/open-faculty-positions.html"> <span class="teaser-inner"> <!--noindex--> <span class="teaser-date">11/7/18</span> <!--endnoindex--> <span class="teaser-title">Open Professor of Empire Innovation Position</span> </span> </a> </span></li><li><span class="teaser teaser-inline"> <a href="/ee/faculty/open-teaching-faculty-positions.html"> <span class="teaser-inner"> <!--noindex--> <span class="teaser-date">5/9/18</span> <!--endnoindex--> <span class="teaser-title">Open Teaching Faculty Position</span> </span> </a> </span></li></ul></div><div class="clearfix"></div></div></div></div></div></div></div></li><li class="theme-primary theme-harriman-blue"><a id="ubcms-gen-3739673783" aria-haspopup="true" href="/ee/academics.html"><span class="container">Undergraduate</span></a><div class="topnav-submenu-container" aria-labelledby="ubcms-gen-3739673783"><ul class="submenu clearfix"><li class="first"><a aria-label="Undergraduate:Why Study Electrical Engineering at UB?" href="/ee/academics/why-choose.html">Why Study Electrical Engineering at UB?</a></li><li><a aria-label="Undergraduate:BS in Electrical Engineering" href="/ee/academics/bachelors_ee.html">BS in Electrical Engineering</a></li><li><a aria-label="Undergraduate:Joint BS/MBA Program" href="/ee/academics/bs_mba.html">Joint BS/MBA Program</a></li><li><a aria-label="Undergraduate:Curriculum" href="/ee/academics/curriculum.html">Curriculum</a></li><li><a aria-label="Undergraduate:Accreditation and Assessment" href="/ee/academics/accreditation-and-assessment.html">Accreditation and Assessment</a></li><li><a aria-label="Undergraduate:Enhancing Your Undergraduate Experience" href="/ee/academics/enhancing-your-undergraduate-experience.html">Enhancing Your Undergraduate Experience</a><div class="topnav-submenu-children-container list"><ul class="submenu-children clearfix link-list"><li class="first"><a aria-label="Enhancing Your Undergraduate Experience:Experiential Learning" href="/ee/academics/enhancing-your-undergraduate-experience/experiential-learning.html">Experiential Learning</a></li><li><a aria-label="Enhancing Your Undergraduate Experience:Student and Professional Organizations" href="/ee/academics/enhancing-your-undergraduate-experience/professional-and-student-organizations.html">Student and Professional Organizations</a></li><li><a aria-label="Enhancing Your Undergraduate Experience:Study Abroad and International Exchanges" href="/ee/academics/enhancing-your-undergraduate-experience/study-abroad-and-international-exchanges.html">Study Abroad and International Exchanges</a></li><li class="last"><a aria-label="Enhancing Your Undergraduate Experience:Undergraduate Research" href="/ee/academics/enhancing-your-undergraduate-experience/undergraduate-research.html">Undergraduate Research</a></li></ul></div></li><li><a aria-label="Undergraduate:Scholarships and Fellowships" href="/ee/academics/scholarships-and-fellowships.html">Scholarships and Fellowships</a></li><li><a aria-label="Undergraduate:Frequently Used Forms" href="/ee/academics/forms.html">Frequently Used Forms</a></li><li class="last"><a aria-label="Undergraduate:Admissions" href="/ee/academics/undergraduate.html">Admissions</a></li></ul><div class="relatedLinks relatedlinksreference reference parbase"><div class="nav-related-links"><!--noindex--><div class="subnav-title">Related Links</div><!--endnoindex--><div class="relatedlinkspage unstructuredpage page"><div class="par parsys"><div class="relatedlinks list parbase section"><div id="ubcms-gen-3739673869"><ul class="link-list" data-columnize="1"><li><span class="teaser teaser-inline"> <a href="http://admissions.buffalo.edu/" target="_blank"> <span class="teaser-inner"> <!--noindex--> <span class="teaser-date"></span> <!--endnoindex--> <span class="teaser-title">Apply Now</span> </span> </a> </span></li><li><span class="teaser teaser-inline"> <a href="/ee/about-us/our-students-and-alumni.html" target="_blank"> <span class="teaser-inner"> <!--noindex--> <span class="teaser-date">10/22/18</span> <!--endnoindex--> <span class="teaser-title">Meet Our Students and Alumni</span> </span> </a> </span></li></ul></div><div class="clearfix"></div></div></div></div></div></div></div></li><li class="theme-primary theme-harriman-blue"><a id="ubcms-gen-3739673892" aria-haspopup="true" href="/ee/grad.html"><span class="container">Graduate</span></a><div class="topnav-submenu-container" aria-labelledby="ubcms-gen-3739673892"><ul class="submenu clearfix"><li class="first"><a aria-label="Graduate:Graduate Programs" href="/ee/grad/graduate_programs.html">Graduate Programs</a></li><li><a aria-label="Graduate:Courses" href="/ee/grad/courses.html">Courses</a></li><li><a aria-label="Graduate:Scholarships, Fellowships and Assistantships" href="/ee/grad/graduate_scholarships.html">Scholarships, Fellowships and Assistantships</a></li><li><a aria-label="Graduate:Student and Professional Organizations" href="/ee/grad/professional-and-student-organizations.html">Student and Professional Organizations</a></li><li><a aria-label="Graduate:Handbook and Forms" href="/ee/grad/graduate_forms.html">Handbook and Forms</a></li><li class="last"><a aria-label="Graduate:Admissions" href="/ee/grad/admissions1.html">Admissions</a></li></ul><div class="relatedLinks relatedlinksreference reference parbase"><div class="nav-related-links"><!--noindex--><div class="subnav-title">Related Links</div><!--endnoindex--><div class="relatedlinkspage unstructuredpage page"><div class="par parsys"><div class="relatedlinks list parbase section"><div id="ubcms-gen-3739673946"><ul class="link-list" data-columnize="1"><li><span class="teaser teaser-inline"> <a href="https://www.gradmit.buffalo.edu/etw/ets/et.asp?nxappid=GRA&nxmid=GetPublicApplicationSite&progid=RWH0ULQVV~RWH0ULQVX~1UC0U1SVM~RWH0ULQVZ~5480JNRFL~5480JSNJC~5480JURV4" target="_blank"> <span class="teaser-inner"> <!--noindex--> <span class="teaser-date"></span> <!--endnoindex--> <span class="teaser-title">Apply Now</span> </span> </a> </span></li><li><span class="teaser teaser-inline"> <a href="/ee/about-us/our-students-and-alumni.html" target="_blank"> <span class="teaser-inner"> <!--noindex--> <span class="teaser-date">10/22/18</span> <!--endnoindex--> <span class="teaser-title">Meet Our Students and Alumni</span> </span> </a> </span></li></ul></div><div class="clearfix"></div></div></div></div></div></div></div></li><li class="theme-primary theme-harriman-blue"><a id="ubcms-gen-3739673962" aria-haspopup="true" href="/ee/research.html"><span class="container">Research</span></a><div class="topnav-submenu-container" aria-labelledby="ubcms-gen-3739673962"><ul class="submenu clearfix"><li class="first"><a aria-label="Research:Areas of Research" href="/ee/research/areas.html">Areas of Research</a></li><li><a aria-label="Research:Press Releases" href="/ee/research/press-releases.html">Press Releases</a></li><li><a aria-label="Research:Research Highlights" href="/ee/research/research_news.html">Research Highlights</a></li><li><a aria-label="Research:Research Facilities" href="/ee/research/research_facilities.html">Research Facilities</a></li><li class="last"><a aria-label="Research:Technical Innovations" href="/ee/research/technical_innovations.html">Technical Innovations</a></li></ul><div class="relatedLinks relatedlinksreference reference parbase"><div class="nav-related-links"><!--noindex--><div class="subnav-title">Related Links</div><!--endnoindex--><div class="relatedlinkspage unstructuredpage page"><div class="par parsys"><div class="relatedlinks list parbase section"><div id="ubcms-gen-3739674005"><ul class="link-list" data-columnize="1"><li><span class="teaser teaser-inline"> <a href="http://www.buffalo.edu/research/research-centers.html" target="_blank"> <span class="teaser-inner"> <!--noindex--> <span class="teaser-date"></span> <!--endnoindex--> <span class="teaser-title">UB Research Centers</span> </span> </a> </span></li></ul></div><div class="clearfix"></div></div></div></div></div></div></div></li><li class="theme-primary theme-harriman-blue active-trail"><a id="ubcms-gen-3739674018" aria-haspopup="true" href="/ee/faculty/faculty_directory.html"><span class="container">People</span></a><div class="topnav-submenu-container" aria-labelledby="ubcms-gen-3739674018"><ul class="submenu clearfix"><li class="first active-trail"><a class="active" aria-label="People:Faculty Directory" href="/ee/faculty/faculty_directory.html">Faculty Directory</a></li><li><a aria-label="People:Staff Directory" href="/ee/faculty/staff_directory.html">Staff Directory</a></li><li><a aria-label="People:Open Professor of Empire Innovation Position" href="/ee/faculty/open-faculty-positions.html">Open Professor of Empire Innovation Position</a></li><li class="last"><a aria-label="People:Open Teaching Faculty Position" href="/ee/faculty/open-teaching-faculty-positions.html">Open Teaching Faculty Position</a></li></ul><div class="relatedLinks relatedlinksreference reference parbase"><div class="nav-related-links"><!--noindex--><div class="subnav-title">Related Links</div><!--endnoindex--><div class="relatedlinkspage unstructuredpage page"><div class="par parsys"><div class="relatedlinks list parbase section"><div id="ubcms-gen-3739674098"><ul class="link-list" data-columnize="1"><li><span class="teaser teaser-inline"> <a href="/ee/about-us/staff_directory.html"> <span class="teaser-inner"> <!--noindex--> <span class="teaser-date">11/7/18</span> <!--endnoindex--> <span class="teaser-title">Leadership and Administration</span> </span> </a> </span></li></ul></div><div class="clearfix"></div></div></div></div></div></div></div></li><li class="last theme-secondary theme-solar-strand"><a id="ubcms-gen-3739674121" aria-haspopup="true" href="/ee/news-events/research_news.html"><span class="container">News and Events</span></a><div class="topnav-submenu-container" aria-labelledby="ubcms-gen-3739674121"><ul class="submenu clearfix"><li class="first"><a aria-label="News and Events:Research Highlights" href="/ee/news-events/research_news.html">Research Highlights</a></li><li><a aria-label="News and Events:Press Releases" href="/ee/news-events/press-releases.html">Press Releases</a></li><li><a aria-label="News and Events:Department News" href="/ee/news-events/dept_news.html">Department News</a></li><li><a aria-label="News and Events:Archives" href="/ee/news-events/archives.html">Archives</a></li><li><a aria-label="News and Events:Upcoming Events" href="/ee/news-events/upcoming_events.html">Upcoming Events</a></li><li><a aria-label="News and Events:Newsletter" href="/ee/news-events/newsletter.html">Newsletter</a></li><li class="last"><a aria-label="News and Events:EE Seminar Series" href="/ee/news-events/ee-seminar-series.html">EE Seminar Series</a></li></ul><div class="relatedLinks relatedlinksreference reference parbase"></div></div></li></ul></div><div class="right"><div class="search"><!--noindex--><div role="search"><div class="label" onmouseenter="jQuery(this).parent().find('input[type=text]').focus().select()">Search</div><div class="form" onmouseleave="jQuery(this).parent().find('input[type=text]').blur()"><div data-set="mobile-search" class="form-content"><form method="GET" action="/ee/searchresults.html" onsubmit="return this.q.value != ''"> <label for="ubcms-gen-3739674240" class="ada-hidden">Search</label> <input id="ubcms-gen-3739674240" type="text" name="q" value="" placeholder="Search" autocomplete="off" onfocus="jQuery(this).parents('.form').addClass('show-search')" onblur="jQuery(this).parents('.form').removeClass('show-search')"> <i class="icon icon-search"></i> <input type="submit" value="Search" onfocus="jQuery(this).parents('.form').addClass('show-search')" onblur="jQuery(this).parents('.form').removeClass('show-search')"> </form></div></div></div><!--endnoindex--></div><div class="audiencenav list parbase"><div tabindex="0" class="audiencenav-wrapper"><div class="label">Info For</div><ul><li><a onfocus="jQuery(this).parents('.audiencenav-wrapper').addClass('hover')" onblur="jQuery(this).parents('.audiencenav-wrapper').removeClass('hover')" href="/ee/information-for-prospective-students.html"> Prospective Students </a></li><li><a onfocus="jQuery(this).parents('.audiencenav-wrapper').addClass('hover')" onblur="jQuery(this).parents('.audiencenav-wrapper').removeClass('hover')" href="/ee/information-for-students.html"> Current Students </a></li><li><a onfocus="jQuery(this).parents('.audiencenav-wrapper').addClass('hover')" onblur="jQuery(this).parents('.audiencenav-wrapper').removeClass('hover')" href="/ee/information-for-faculty-staff.html"> Faculty &amp; Staff </a></li><li><a onfocus="jQuery(this).parents('.audiencenav-wrapper').addClass('hover')" onblur="jQuery(this).parents('.audiencenav-wrapper').removeClass('hover')" href="/ee/information-for-alumni.html"> Alumni </a></li></ul></div></div></div></nav><script>$(".topnav").accessibleDropDown();</script></div><div class="breadcrumbs section"><div class="breadcrumbs-inner" role="navigation" aria-label="breadcrumbs"><ul class="breadcrumb"><li><a aria-label="Department of Electrical Engineering" href="/ee.html">Department of Electrical Engineering</a> <span class="arrow"><span>&gt;</span></span></li><li><a aria-label="Department of Electrical Engineering:People" href="/ee/faculty/faculty_directory.html">People</a> <span class="arrow"><span>&gt;</span></span></li><li class="current-page">Faculty Directory</li></ul></div></div><div class="htmlsnippet section"><div><style type="text/css">
+   .miniheader .title {
+        display: none;
+   }
+   .miniheader .miniheadernav {
+        float: left;
+   }
+   .miniheader .miniheadernav ul {
+        margin: 0px;
+   }
+   .miniheader .miniheadernav ul li {
+        font: 11px DinWebRegular; 
+        letter-spacing: 1px;
+   }
+   .miniheader .miniheadernav ul li.first a{
+        margin-right: 5px 
+   }
+    .miniheader .miniheadernav ul li.last a{
+        margin-left: 5px 
+   }
+    
+body.page .page-inner-3 {
+    background: url(/content/dam/engineering/ee/ee-bkgd-lg.png) center top #ffffff;
+    background-attachment: fixed;
+}    
+    
+</style></div></div></div></div></div></header><div id="columns" class="two-column clearfix"><div class="columns-bg columns-bg-1"><div class="columns-bg columns-bg-2"><div class="columns-bg columns-bg-3"><div class="columns-bg columns-bg-4"><div id="left"><div class="leftnav"><nav class="inner" aria-label="section navigation"><div class="title"><a href="/ee/faculty/faculty_directory.html"><span class="title">People</span></a></div><ul class="menu nav-level-1"><li class="first active-trail"><span><a class="active" aria-label="People:Faculty Directory" href="/ee/faculty/faculty_directory.html">Faculty Directory</a></span><ul class="menu nav-level-2"><li class="first"><a aria-label="Faculty Directory:Elena Bernal Mor" href="/ee/faculty/faculty_directory/elena-bernal-mor.html">Elena Bernal Mor</a></li><li><a aria-label="Faculty Directory:Jonathan Bird" href="/ee/faculty/faculty_directory/jonathan-bird.html">Jonathan Bird</a></li><li><a aria-label="Faculty Directory:Kevin Burke" href="/ee/faculty/faculty_directory/kevin-burke.html">Kevin Burke</a></li><li><a aria-label="Faculty Directory:Ping-Chin Cheng" href="/ee/faculty/faculty_directory/ping-chin-cheng.html">Ping-Chin Cheng</a></li><li><a aria-label="Faculty Directory:Jun (Brandon) Choi" href="/ee/faculty/faculty_directory/brandon-choi.html">Jun (Brandon) Choi</a></li><li><a aria-label="Faculty Directory:Erik Einarsson " href="/ee/faculty/faculty_directory/erik-einarsson.html">Erik Einarsson </a></li><li><a aria-label="Faculty Directory:Adly Fam" href="/ee/faculty/faculty_directory/adly-fam.html">Adly Fam</a></li><li><a aria-label="Faculty Directory:Liesl Folks" href="/ee/faculty/faculty_directory/liesl-folks.html">Liesl Folks</a></li><li><a aria-label="Faculty Directory:Qiaoqiang Gan" href="/ee/faculty/faculty_directory/qiaoqiang-gan.html">Qiaoqiang Gan</a></li><li><a aria-label="Faculty Directory:Zhangyu Guan" href="/ee/faculty/faculty_directory/zhangyu-guan.html">Zhangyu Guan</a></li><li><a aria-label="Faculty Directory:Luis Carlos Herrera" href="/ee/faculty/faculty_directory/luis-herrera.html">Luis Carlos Herrera</a></li><li><a aria-label="Faculty Directory:Kristina Johnson" href="/ee/faculty/faculty_directory/kristina-johnson.html">Kristina Johnson</a></li><li><a aria-label="Faculty Directory:Josep M. Jornet " href="/ee/faculty/faculty_directory/josep-jornet.html">Josep M. Jornet </a></li><li><a aria-label="Faculty Directory:Michael Langberg " href="/ee/faculty/faculty_directory/michael-langberg.html">Michael Langberg </a></li><li><a aria-label="Faculty Directory:Huamin Li" href="/ee/faculty/faculty_directory/huamin-li.html">Huamin Li</a></li><li><a aria-label="Faculty Directory:Pao-Lo Liu " href="/ee/faculty/faculty_directory/pao-lo-liu.html">Pao-Lo Liu </a></li><li><a aria-label="Faculty Directory:Peter Q. Liu" href="/ee/faculty/faculty_directory/peter-liu.html">Peter Q. Liu</a></li><li><a aria-label="Faculty Directory:Filippo Malandra" href="/ee/faculty/faculty_directory/filippo-malandra.html">Filippo Malandra</a></li><li><a aria-label="Faculty Directory:Nicholas Mastronarde " href="/ee/faculty/faculty_directory/nicholas-mastronarde.html">Nicholas Mastronarde </a></li><li><a aria-label="Faculty Directory:Vladimir Mitin" href="/ee/faculty/faculty_directory/vladimir-mitin.html">Vladimir Mitin</a></li><li><a aria-label="Faculty Directory:Kwang Oh" href="/ee/faculty/faculty_directory/kwang-oh.html">Kwang Oh</a></li><li><a aria-label="Faculty Directory:Vasili Perebeinos" href="/ee/faculty/faculty_directory/vasili-perebeinos.html">Vasili Perebeinos</a></li><li><a aria-label="Faculty Directory:Paras Prasad " href="/ee/faculty/faculty_directory/paras-prasad.html">Paras Prasad </a></li><li><a aria-label="Faculty Directory:Arindam Sanyal" href="/ee/faculty/faculty_directory/arindam-sanyal.html">Arindam Sanyal</a></li><li><a aria-label="Faculty Directory:Uttam Singisetti " href="/ee/faculty/faculty_directory/uttam-singisetti.html">Uttam Singisetti </a></li><li><a aria-label="Faculty Directory:Konstantinos Slavakis" href="/ee/faculty/faculty_directory/konstantinos-slavakis.html">Konstantinos Slavakis</a></li><li><a aria-label="Faculty Directory:Weifeng Su" href="/ee/faculty/faculty_directory/weifeng-su.html">Weifeng Su</a></li><li><a aria-label="Faculty Directory:Zhi Sun" href="/ee/faculty/faculty_directory/zhi-sun.html">Zhi Sun</a></li><li><a aria-label="Faculty Directory:Chu Ryang Wie " href="/ee/faculty/faculty_directory/chu-ryang-wie.html">Chu Ryang Wie </a></li><li><a aria-label="Faculty Directory:Xiu Yao" href="/ee/faculty/faculty_directory/xiu-yao.html">Xiu Yao</a></li><li><a aria-label="Faculty Directory:Leslie (Lei) Ying " href="/ee/faculty/faculty_directory/leslie-ying.html">Leslie (Lei) Ying </a></li><li><a aria-label="Faculty Directory:Jennifer Zirnheld" href="/ee/faculty/faculty_directory/jennifer-zirnheld.html">Jennifer Zirnheld</a></li><li class="last"><a aria-label="Faculty Directory:Shaofeng Zou" href="/ee/faculty/faculty_directory/shaofeng-zou.html">Shaofeng Zou</a></li></ul></li><li><a aria-label="People:Staff Directory" href="/ee/faculty/staff_directory.html">Staff Directory</a></li><li><a aria-label="People:Open Professor of Empire Innovation Position" href="/ee/faculty/open-faculty-positions.html">Open Professor of Empire Innovation Position</a></li><li class="last"><a aria-label="People:Open Teaching Faculty Position" href="/ee/faculty/open-teaching-faculty-positions.html">Open Teaching Faculty Position</a></li></ul><div class="relatedLinks relatedlinksreference reference parbase"><div class="nav-related-links"><!--noindex--> Related Links <!--endnoindex--><div class="relatedlinkspage unstructuredpage page"><div class="par parsys"><div class="relatedlinks list parbase section"><div id="ubcms-gen-3739674800"><ul class="link-list" data-columnize="1"><li><span class="teaser teaser-inline"> <a href="/ee/about-us/staff_directory.html"> <span class="teaser-inner"> <!--noindex--> <span class="teaser-date">11/7/18</span> <!--endnoindex--> <span class="teaser-title">Leadership and Administration</span> </span> </a> </span></li></ul></div><div class="clearfix"></div></div></div></div></div></div></nav></div><div class="mobile-left-col hide-in-narrow" data-set="mobile-center-bottom-or-right-top"><div class="leftcol parsys iparsys" role="complementary"><div class="iparys_inherited"><div class="leftcol iparsys parsys"></div></div></div></div></div><script>
+                            (function() {
+                                var $firstLeftIparsysInherited = $('#left .iparys_inherited').eq(0);
+                                var $firstLeftIparsysSection = $('#left > .iparsys:first-child > .section:first-child');
+                                var $mcbort = $('.mobile-center-bottom-or-right-top');
+
+                                if ($firstLeftIparsysInherited.length && $firstLeftIparsysInherited.html().replace(/\s+|<\/?div\b[^>]*>/gi, '') === '')
+                                    $firstLeftIparsysInherited.addClass('empty');
+                                
+                                if ($firstLeftIparsysSection.length && $firstLeftIparsysSection.html().replace(/\s+|<\/?div\b[^>]*>/gi, '') === '')
+                                    $firstLeftIparsysSection.addClass('empty');
+                                
+                                if ($mcbort.length && $mcbort.html().replace(/\s+|<\/?div\b[^>]*>/gi, '') === '')
+                                    $mcbort.addClass('empty');
+
+                                $('[role=complementary]').each(function() {
+                                    var $this = $(this);
+                                    if ($this.children().filter(':not(.empty)').filter(':not(:empty)').length === 0)
+                                        $this.removeAttr('role');
+                                });
+
+                                if ($('.leftcol[role=complementary]').length > 0 && $('#right[role=complementary]').length > 0) {
+                                    $('.leftcol[role=complementary]').attr('aria-label', 'left column');
+                                    $('#right[role=complementary]').attr('aria-label', 'right column');
+                                }
+                            })();
+                        </script><div id="skip-to-content"></div><div id="center" role="main"><div class="mobile-content-top" data-set="content-top"></div><div class="par parsys"><div class="title section"><h1 id="title_1">Faculty Directory</h1></div><div class="hr section hrline" style="clear:left;"></div><div class="title section"><h2 id="title">Ladder Faculty</h2></div><div class="staffdirectory imagebase section"><div class="staff_member"><div class="staff_photo "><a href="/ee/faculty/faculty_directory/jonathan-bird.html"><picture><img height="60" alt="Jon Bird " width="60" class="img-60 img-60x60 cq-dd-image" src="/content/engineering/ee/faculty/faculty_directory/_jcr_content/par/staffdirectory_3.img.60.60.jpg/1509050073734.jpg" srcset="/content/engineering/ee/faculty/faculty_directory/jcr:content/par/staffdirectory_3.img.120.120.q65.jpg/1509050073734.jpg 2x"></picture></a></div><div class="staff_name -name"><p><span class="staff_name_bolded"><a href='/ee/faculty/faculty_directory/jonathan-bird.html'>Jonathan Bird</a></span></p><p><span class="staff_title_italic">Professor and Chair</span><br/></p><p><span>Ph.D., University of Sussex</span></p></div><div class="staff_contact -contact"><p>230 I Davis Hall</p><p>Phone: (716) 645-1015</p><p>Email: <a class="longtext" href="mailto:jbird@buffalo.edu">jbird@buffalo.edu</a></p></div><div class="clear_all"></div></div><script>
+    
+        jQuery(document).ready(function(){
+        
+            jQuery('.staffdirectory .longtext').each(function() {
+               jQuery(this).removeClass("longtext");
+               jQuery(this).html(jQuery(this).html().replace(/(\/|\?|=|\&|%|@)/g, '$1<wbr>'));
+            });
+        
+        
+        });
+    
+    </script></div><div class="captiontext text parbase section"><p>&nbsp;</p><p><i><b>Specialty/Research Focus:&nbsp;</b>Nanoelectronics and Mesoscopic physics: Fundamental Investigations of Quantum Phenomena; Explorations of New Device and Sensing Paradigms; Electrical Properties of Novel Nanomaterials</i></p></div><div class="hr section hrline" style="clear:left;"></div><div class="staffdirectory imagebase section"><div class="staff_member"><div class="staff_photo "><a href="/ee/faculty/faculty_directory/ping-chin-cheng.html"><picture><img height="60" alt="Picture of Ping-Chin Cheng" width="60" class="img-60 img-60x60 cq-dd-image" src="/content/engineering/ee/faculty/faculty_directory/_jcr_content/par/staffdirectory_5.img.60.60.jpg/1439316501687.jpg" srcset="/content/engineering/ee/faculty/faculty_directory/jcr:content/par/staffdirectory_5.img.120.120.q65.jpg/1439316501687.jpg 2x"></picture></a></div><div class="staff_name -name"><p><span class="staff_name_bolded"><a href='/ee/faculty/faculty_directory/ping-chin-cheng.html'>Ping-Chin Cheng</a></span></p><p><span class="staff_title_italic">Professor</span><br/></p><p><span>Ph.D., University of Illinois Medical Ctr</span></p></div><div class="staff_contact -contact"><p>230 G Davis Hall</p><p>Phone: (716) 645-1010</p><p>Email: <a class="longtext" href="mailto:elepcc@gmail.com">elepcc@gmail.com</a></p></div><div class="clear_all"></div></div><script>
+    
+        jQuery(document).ready(function(){
+        
+            jQuery('.staffdirectory .longtext').each(function() {
+               jQuery(this).removeClass("longtext");
+               jQuery(this).html(jQuery(this).html().replace(/(\/|\?|=|\&|%|@)/g, '$1<wbr>'));
+            });
+        
+        
+        });
+    
+    </script></div><div class="captiontext text parbase section"><p>&nbsp;</p><p><i><b>Specialty/Research Focus:&nbsp;</b>Confocal Microscopy; Biomedical Imaging; X-ray Microscopy; Microtomography; Lithography</i></p></div><div class="hr section hrline" style="clear:left;"></div><div class="staffdirectory imagebase section"><div class="staff_member"><div class="staff_photo "><a href="/ee/faculty/faculty_directory/brandon-choi.html"><picture><img height="60" alt="brandon choi " width="60" class="img-60 img-60x60 cq-dd-image" src="/content/engineering/ee/faculty/faculty_directory/_jcr_content/par/staffdirectory_32.img.60.60.jpg/1515165668309.jpg" srcset="/content/engineering/ee/faculty/faculty_directory/jcr:content/par/staffdirectory_32.img.120.120.q65.jpg/1515165668309.jpg 2x"></picture></a></div><div class="staff_name -name"><p><span class="staff_name_bolded"><a href='/ee/faculty/faculty_directory/brandon-choi.html'>Jun (Brandon) Choi</a></span></p><p><span class="staff_title_italic">Assistant Professor </span><br/></p><p><span>Ph.D., University of California, Los Angeles</span></p></div><div class="staff_contact -contact"><p>230 K Davis Hall</p><p>Phone: (716) 645-1148</p><p>Email: <a class="longtext" href="mailto:junhchoi@buffalo.edu">junhchoi@buffalo.edu</a></p></div><div class="clear_all"></div></div><script>
+    
+        jQuery(document).ready(function(){
+        
+            jQuery('.staffdirectory .longtext').each(function() {
+               jQuery(this).removeClass("longtext");
+               jQuery(this).html(jQuery(this).html().replace(/(\/|\?|=|\&|%|@)/g, '$1<wbr>'));
+            });
+        
+        
+        });
+    
+    </script></div><div class="captiontext text parbase section"><p>&nbsp;</p><p><i><b>Specialty/Research Focus</b>:&nbsp;Microwave circuits and systems, antennas and antenna arrays, periodic structures, metamaterials.</i></p></div><div class="hr section hrline" style="clear:left;"></div><div class="staffdirectory imagebase section"><div class="staff_member"><div class="staff_photo "><a href="/ee/faculty/faculty_directory/erik-einarsson.html"><picture><img height="60" alt="photo " width="60" class="img-60 img-60x60 cq-dd-image" src="/content/engineering/ee/faculty/faculty_directory/_jcr_content/par/staffdirectory_1.img.60.60.png/1504661696890.png" srcset="/content/engineering/ee/faculty/faculty_directory/jcr:content/par/staffdirectory_1.img.120.120.q65.png/1504661696890.png 2x"></picture></a></div><div class="staff_name -name"><p><span class="staff_name_bolded"><a href='/ee/faculty/faculty_directory/erik-einarsson.html'>Erik Einarsson</a></span></p><p><span class="staff_title_italic">Assistant Professor</span><br/></p><p><span>Ph.D., University of Tokyo</span></p></div><div class="staff_contact -contact"><p>113 D Davis Hall</p><p>Phone: (716) 645-5089</p><p>Email: <a class="longtext" href="mailto:erikeina@buffalo.edu">erikeina@buffalo.edu</a></p></div><div class="clear_all"></div></div><script>
+    
+        jQuery(document).ready(function(){
+        
+            jQuery('.staffdirectory .longtext').each(function() {
+               jQuery(this).removeClass("longtext");
+               jQuery(this).html(jQuery(this).html().replace(/(\/|\?|=|\&|%|@)/g, '$1<wbr>'));
+            });
+        
+        
+        });
+    
+    </script></div><div class="captiontext text parbase section"><p>&nbsp;</p><p><i><b>Specialty/Research Focus</b>:&nbsp;Synthesis of low-dimensional materials such as graphene and single-walled carbon nanotubes, materials characterization, and THz applications of nanoscale materials</i></p></div><div class="hr section hrline" style="clear:left;"></div><div class="staffdirectory imagebase section"><div class="staff_member"><div class="staff_photo "><a href="/ee/faculty/faculty_directory/adly-fam.html"><picture><img height="60" alt="Photo of Adly Fam" width="60" class="img-60 img-60x60 cq-dd-image" src="/content/engineering/ee/faculty/faculty_directory/_jcr_content/par/staffdirectory_13.img.60.60.jpg/1383227154242.jpg" srcset="/content/engineering/ee/faculty/faculty_directory/jcr:content/par/staffdirectory_13.img.120.120.q65.jpg/1383227154242.jpg 2x"></picture></a></div><div class="staff_name -name"><p><span class="staff_name_bolded"><a href='/ee/faculty/faculty_directory/adly-fam.html'>Adly Fam</a></span></p><p><span class="staff_title_italic">Professor</span><br/></p><p><span>Ph.D., University of California, Irvine</span></p></div><div class="staff_contact -contact"><p>219 Davis Hall</p><p>Phone: (716) 645-1149</p><p>Email: <a class="longtext" href="mailto:afam@buffalo.edu">afam@buffalo.edu</a></p></div><div class="clear_all"></div></div><script>
+    
+        jQuery(document).ready(function(){
+        
+            jQuery('.staffdirectory .longtext').each(function() {
+               jQuery(this).removeClass("longtext");
+               jQuery(this).html(jQuery(this).html().replace(/(\/|\?|=|\&|%|@)/g, '$1<wbr>'));
+            });
+        
+        
+        });
+    
+    </script></div><div class="captiontext text parbase section"><p>&nbsp;</p><p><i><b>Specialty/Research Focus:&nbsp;</b>Digital Signal Processing; Arithmetic Intensive Computing; Communications and Radar</i></p></div><div class="hr section hrline" style="clear:left;"></div><div class="staffdirectory imagebase section"><div class="staff_member"><div class="staff_photo "><a href="/ee/faculty/faculty_directory/liesl-folks.html"><picture><img height="60" alt="photo " width="60" class="img-60 img-60x60 cq-dd-image" src="/content/engineering/ee/faculty/faculty_directory/_jcr_content/par/staffdirectory_2.img.60.60.jpg/1488568608429.jpg" srcset="/content/engineering/ee/faculty/faculty_directory/jcr:content/par/staffdirectory_2.img.120.120.q65.jpg/1488568608429.jpg 2x"></picture></a></div><div class="staff_name -name"><p><span class="staff_name_bolded"><a href='/ee/faculty/faculty_directory/liesl-folks.html'>Liesl Folks</a></span></p><p><span class="staff_title_italic">Professor and Dean of UB SEAS</span><br/></p><p><span>Ph.D., University of Western Australia; MBA, Cornell University</span></p></div><div class="staff_contact -contact"><p>208 Davis Hall</p><p>Phone: (716) 645-2771</p><p>Email: <a class="longtext" href="mailto:lfolks@buffalo.edu">lfolks@buffalo.edu</a></p></div><div class="clear_all"></div></div><script>
+    
+        jQuery(document).ready(function(){
+        
+            jQuery('.staffdirectory .longtext').each(function() {
+               jQuery(this).removeClass("longtext");
+               jQuery(this).html(jQuery(this).html().replace(/(\/|\?|=|\&|%|@)/g, '$1<wbr>'));
+            });
+        
+        
+        });
+    
+    </script></div><div class="captiontext text parbase section"><p>&nbsp;</p><p><i><b>Specialty/Research Focus:&nbsp;</b>Materials design and innovation, technology transfer cycle optimization, nanostructured magnetic materials&nbsp;and spin-electronic devices, data storage, random access memories, access &amp; participation in STEM.</i></p></div><div class="hr section hrline" style="clear:left;"></div><div class="staffdirectory imagebase section"><div class="staff_member"><div class="staff_photo "><a href="/ee/faculty/faculty_directory/qiaoqiang-gan.html"><picture><img height="60" alt="Gan" width="60" class="img-60 img-60x60 cq-dd-image" src="/content/engineering/ee/faculty/faculty_directory/_jcr_content/par/staffdirectory_11.img.60.60.png/1548444558186.png" srcset="/content/engineering/ee/faculty/faculty_directory/jcr:content/par/staffdirectory_11.img.120.120.q65.png/1548444558186.png 2x"></picture></a></div><div class="staff_name -name"><p><span class="staff_name_bolded"><a href='/ee/faculty/faculty_directory/qiaoqiang-gan.html'>Qiaoqiang Gan</a></span></p><p><span class="staff_title_italic">Associate Professor</span><br/></p><p><span>Ph.D., Lehigh University</span></p></div><div class="staff_contact -contact"><p>230 L Davis Hall</p><p>Phone: (716) 645-1152</p><p>Email: <a class="longtext" href="mailto:qqgan@buffalo.edu">qqgan@buffalo.edu</a></p></div><div class="clear_all"></div></div><script>
+    
+        jQuery(document).ready(function(){
+        
+            jQuery('.staffdirectory .longtext').each(function() {
+               jQuery(this).removeClass("longtext");
+               jQuery(this).html(jQuery(this).html().replace(/(\/|\?|=|\&|%|@)/g, '$1<wbr>'));
+            });
+        
+        
+        });
+    
+    </script></div><div class="captiontext text parbase section"><p>&nbsp;</p><p><i><b>Specialty/Research Focus:&nbsp;</b>Nano-optics and Nanoplasmonics for Optoelectronics and Energy; Biosensing and Environmental Sensing</i></p></div><div class="hr section hrline" style="clear:left;"></div><div class="staffdirectory imagebase section"><div class="staff_member"><div class="staff_photo "><a href="/ee/faculty/faculty_directory/zhangyu-guan.html"><picture><img height="60" alt="photo of zhangyu guan" width="60" class="img-60 img-60x60 cq-dd-image" src="/content/engineering/ee/faculty/faculty_directory/_jcr_content/par/staffdirectory_1107173956.img.60.60.jpg/1539796424508.jpg" srcset="/content/engineering/ee/faculty/faculty_directory/jcr:content/par/staffdirectory_1107173956.img.120.120.q65.jpg/1539796424508.jpg 2x"></picture></a></div><div class="staff_name -name"><p><span class="staff_name_bolded"><a href='/ee/faculty/faculty_directory/zhangyu-guan.html'>Zhangyu Guan</a></span></p><p><span class="staff_title_italic">Assistant Professor</span><br/></p><p><span>Ph.D., Shandong University</span></p></div><div class="staff_contact -contact"><p>221 Davis Hall</p><p>Phone: (716) 645-1207</p><p>Email: <a class="longtext" href="mailto:guan@buffalo.edu">guan@buffalo.edu</a></p></div><div class="clear_all"></div></div><script>
+    
+        jQuery(document).ready(function(){
+        
+            jQuery('.staffdirectory .longtext').each(function() {
+               jQuery(this).removeClass("longtext");
+               jQuery(this).html(jQuery(this).html().replace(/(\/|\?|=|\&|%|@)/g, '$1<wbr>'));
+            });
+        
+        
+        });
+    
+    </script></div><div class="captiontext text parbase section"><p>&nbsp;</p><p><i><b>Specialty/Research Focus:&nbsp;</b>Architecture Design Toward Fully Programmable Wireless Networks,&nbsp;Software-defined Cognitive Wireless Internet of Things, Wireless Network Security</i></p></div><div class="hr section hrline" style="clear:left;"></div><div class="staffdirectory imagebase section"><div class="staff_member"><div class="staff_photo "><a href="/ee/faculty/faculty_directory/luis-herrera.html"><picture><img height="60" alt="photo of luis herrera" width="60" class="img-60 img-60x60 cq-dd-image" src="/content/engineering/ee/faculty/faculty_directory/_jcr_content/par/staffdirectory_1884292107.img.60.60.jpg/1539796661856.jpg" srcset="/content/engineering/ee/faculty/faculty_directory/jcr:content/par/staffdirectory_1884292107.img.120.120.q65.jpg/1539796661856.jpg 2x"></picture></a></div><div class="staff_name -name"><p><span class="staff_name_bolded"><a href='/ee/faculty/faculty_directory/luis-herrera.html'>Luis Carlos Herrera</a></span></p><p><span class="staff_title_italic">Assistant Professor</span><br/></p><p><span>Ph.D., The Ohio State University</span></p></div><div class="staff_contact -contact"><p>224 Davis Hall</p><p>Phone: (716) 645-1150</p><p>Email: <a class="longtext" href="mailto:lcherrer@buffalo.edu">lcherrer@buffalo.edu</a></p></div><div class="clear_all"></div></div><script>
+    
+        jQuery(document).ready(function(){
+        
+            jQuery('.staffdirectory .longtext').each(function() {
+               jQuery(this).removeClass("longtext");
+               jQuery(this).html(jQuery(this).html().replace(/(\/|\?|=|\&|%|@)/g, '$1<wbr>'));
+            });
+        
+        
+        });
+    
+    </script></div><div class="captiontext text parbase section"><p>&nbsp;</p><p><i><b>Specialty/Research Focus:&nbsp;</b>Power electronics control; &#8203;dc microgrid;&nbsp;power system&nbsp;optimization.</i></p></div><div class="hr section hrline" style="clear:left;"></div><div class="staffdirectory imagebase section"><div class="staff_member"><div class="staff_photo "><a href="/ee/faculty/faculty_directory/kristina-johnson.html"><picture><img height="60" alt="Kristina Johnson" width="60" class="img-60 img-60x60 cq-dd-image" src="/content/engineering/ee/faculty/faculty_directory/_jcr_content/par/staffdirectory_403614085.img.60.60.jpg/1516212306387.jpg" srcset="/content/engineering/ee/faculty/faculty_directory/jcr:content/par/staffdirectory_403614085.img.120.120.q65.jpg/1516212306387.jpg 2x"></picture></a></div><div class="staff_name -name"><p><span class="staff_name_bolded"><a href='/ee/faculty/faculty_directory/kristina-johnson.html'>Kristina Johnson</a></span></p><p><span class="staff_title_italic">SUNY Chancellor and Professor</span><br/></p><p><span>Ph.D., Stanford University</span></p></div><div class="staff_contact -contact"><p>State University Plaza, Albany, New York</p><p>Phone: (518) 320-1355</p><p></p></div><div class="clear_all"></div></div><script>
+    
+        jQuery(document).ready(function(){
+        
+            jQuery('.staffdirectory .longtext').each(function() {
+               jQuery(this).removeClass("longtext");
+               jQuery(this).html(jQuery(this).html().replace(/(\/|\?|=|\&|%|@)/g, '$1<wbr>'));
+            });
+        
+        
+        });
+    
+    </script></div><div class="captiontext text parbase section"><p>&nbsp;</p><p><i><b>Specialty/Research Focus:&nbsp;</b>Clean energy, energy policy.</i></p></div><div class="hr section hrline" style="clear:left;"></div><div class="staffdirectory imagebase section"><div class="staff_member"><div class="staff_photo "><a href="/ee/faculty/faculty_directory/josep-jornet.html"><picture><img height="60" alt="photo of dr. jornet" width="60" class="img-60 img-60x60 cq-dd-image" src="/content/engineering/ee/faculty/faculty_directory/_jcr_content/par/staffdirectory_15.img.60.60.jpg/1541449415050.jpg" srcset="/content/engineering/ee/faculty/faculty_directory/jcr:content/par/staffdirectory_15.img.120.120.q65.jpg/1541449415050.jpg 2x"></picture></a></div><div class="staff_name -name"><p><span class="staff_name_bolded"><a href='/ee/faculty/faculty_directory/josep-jornet.html'>Josep M. Jornet</a></span></p><p><span class="staff_title_italic">Assistant Professor</span><br/></p><p><span>Ph.D., Georgia Institute of Technology </span></p></div><div class="staff_contact -contact"><p>222 Davis Hall</p><p>Phone: (716) 645-1607</p><p>Email: <a class="longtext" href="mailto:jmjornet@buffalo.edu">jmjornet@buffalo.edu</a></p></div><div class="clear_all"></div></div><script>
+    
+        jQuery(document).ready(function(){
+        
+            jQuery('.staffdirectory .longtext').each(function() {
+               jQuery(this).removeClass("longtext");
+               jQuery(this).html(jQuery(this).html().replace(/(\/|\?|=|\&|%|@)/g, '$1<wbr>'));
+            });
+        
+        
+        });
+    
+    </script></div><div class="captiontext text parbase section"><p>&nbsp;</p><p><i><b>Specialty/Research Focus:</b>&nbsp;Electromagnetic nanonetworks, graphene-enabled wireless communication, Terahertz Band communication networks, Wireless Nanosensor Networks and the Internet of Nano-Things</i></p></div><div class="hr section hrline" style="clear:left;"></div><div class="staffdirectory imagebase section"><div class="staff_member"><div class="staff_photo "><a href="/ee/faculty/faculty_directory/michael-langberg.html"><picture><img height="60" alt="Michael Langberg" width="60" class="img-60 img-60x60 cq-dd-image" src="/content/engineering/ee/faculty/faculty_directory/_jcr_content/par/staffdirectory_33.img.60.60.jpg/1515165721329.jpg" srcset="/content/engineering/ee/faculty/faculty_directory/jcr:content/par/staffdirectory_33.img.120.120.q65.jpg/1515165721329.jpg 2x"></picture></a></div><div class="staff_name -name"><p><span class="staff_name_bolded"><a href='/ee/faculty/faculty_directory/michael-langberg.html'>Michael Langberg </a></span></p><p><span class="staff_title_italic">Professor</span><br/></p><p><span>Ph.D., Weizmann Institute of Science</span></p></div><div class="staff_contact -contact"><p>214 Davis Hall</p><p>Phone: (716) 645-1047</p><p>Email: <a class="longtext" href="mailto:mikel@buffalo.edu">mikel@buffalo.edu</a></p></div><div class="clear_all"></div></div><script>
+    
+        jQuery(document).ready(function(){
+        
+            jQuery('.staffdirectory .longtext').each(function() {
+               jQuery(this).removeClass("longtext");
+               jQuery(this).html(jQuery(this).html().replace(/(\/|\?|=|\&|%|@)/g, '$1<wbr>'));
+            });
+        
+        
+        });
+    
+    </script></div><div class="captiontext text parbase section"><p>&nbsp;</p><p><i><b>Specialty/Research Focus</b>: Information Theory, Coding Theory, Network Communication and Network Coding, "Big Data" in the Form of Succinct Data Representation via Geometric Clustering, and Probabilistic Methods in Combinatorics&nbsp;</i></p></div><div class="hr section hrline" style="clear:left;"></div><div class="staffdirectory imagebase section"><div class="staff_member"><div class="staff_photo "><a href="/ee/faculty/faculty_directory/huamin-li.html"><picture><img height="60" alt="huamin li " width="60" class="img-60 img-60x60 cq-dd-image" src="/content/engineering/ee/faculty/faculty_directory/_jcr_content/par/staffdirectory_1424480184.img.60.60.jpg/1548444571273.jpg" srcset="/content/engineering/ee/faculty/faculty_directory/jcr:content/par/staffdirectory_1424480184.img.120.120.q65.jpg/1548444571273.jpg 2x"></picture></a></div><div class="staff_name -name"><p><span class="staff_name_bolded"><a href='/ee/faculty/faculty_directory/huamin-li.html'>Huamin Li</a></span></p><p><span class="staff_title_italic">Assistant Professor</span><br/></p><p><span>Ph.D., Sungkyunkwan University (SKKU)</span></p></div><div class="staff_contact -contact"><p>230 D Davis Hall</p><p>Phone: (716) 645-1026</p><p>Email: <a class="longtext" href="mailto:huaminli@buffalo.edu">huaminli@buffalo.edu</a></p></div><div class="clear_all"></div></div><script>
+    
+        jQuery(document).ready(function(){
+        
+            jQuery('.staffdirectory .longtext').each(function() {
+               jQuery(this).removeClass("longtext");
+               jQuery(this).html(jQuery(this).html().replace(/(\/|\?|=|\&|%|@)/g, '$1<wbr>'));
+            });
+        
+        
+        });
+    
+    </script></div><div class="captiontext text parbase section"><p>&nbsp;</p><p><i><b>Specialty/Research Focus</b>:&nbsp;Nano-scale electronics and optoelectronics based on low-dimensional materials.&nbsp;</i></p></div><div class="hr section hrline" style="clear:left;"></div><div class="staffdirectory imagebase section"><div class="staff_member"><div class="staff_photo "><a href="/ee/faculty/faculty_directory/pao-lo-liu.html"><picture><img height="60" alt="Photo of Pao-Lo Liu" width="60" class="img-60 img-60x60 cq-dd-image" src="/content/engineering/ee/faculty/faculty_directory/_jcr_content/par/staffdirectory_8.img.60.60.jpg/1471292908546.jpg" srcset="/content/engineering/ee/faculty/faculty_directory/jcr:content/par/staffdirectory_8.img.120.120.q65.jpg/1471292908546.jpg 2x"></picture></a></div><div class="staff_name -name"><p><span class="staff_name_bolded"><a href='/ee/faculty/faculty_directory/pao-lo-liu.html'>Pao-Lo Liu</a></span></p><p><span class="staff_title_italic">Professor</span><br/></p><p><span>Ph.D., Harvard University</span></p></div><div class="staff_contact -contact"><p>230 D Davis Hall</p><p>Phone: (716) 645-1021</p><p>Email: <a class="longtext" href="mailto:paololiu@buffalo.edu">paololiu@buffalo.edu</a></p></div><div class="clear_all"></div></div><script>
+    
+        jQuery(document).ready(function(){
+        
+            jQuery('.staffdirectory .longtext').each(function() {
+               jQuery(this).removeClass("longtext");
+               jQuery(this).html(jQuery(this).html().replace(/(\/|\?|=|\&|%|@)/g, '$1<wbr>'));
+            });
+        
+        
+        });
+    
+    </script></div><div class="captiontext text parbase section"><p>&nbsp;</p><p><i><b>Specialty/Research Focus:&nbsp;</b>Computational Photonics; Photonic Bandgap Materials and Devices; Quantum Information Processing</i></p></div><div class="hr section hrline" style="clear:left;"></div><div class="staffdirectory imagebase section"><div class="staff_member"><div class="staff_photo "><a href="/ee/faculty/faculty_directory/peter-liu.html"><picture><img height="60" alt="peter liu" width="60" class="img-60 img-60x60 cq-dd-image" src="/content/engineering/ee/faculty/faculty_directory/_jcr_content/par/staffdirectory_1188358040.img.60.60.jpg/1509051044894.jpg" srcset="/content/engineering/ee/faculty/faculty_directory/jcr:content/par/staffdirectory_1188358040.img.120.120.q65.jpg/1509051044894.jpg 2x"></picture></a></div><div class="staff_name -name"><p><span class="staff_name_bolded"><a href='/ee/faculty/faculty_directory/peter-liu.html'>Peter Q. Liu</a></span></p><p><span class="staff_title_italic">Assistant Professor</span><br/></p><p><span>Ph.D., Princeton University</span></p></div><div class="staff_contact -contact"><p>230 J Davis Hall</p><p>Phone: (716) 645-1037</p><p>Email: <a class="longtext" href="mailto:pqliu@buffalo.edu">pqliu@buffalo.edu</a></p></div><div class="clear_all"></div></div><script>
+    
+        jQuery(document).ready(function(){
+        
+            jQuery('.staffdirectory .longtext').each(function() {
+               jQuery(this).removeClass("longtext");
+               jQuery(this).html(jQuery(this).html().replace(/(\/|\?|=|\&|%|@)/g, '$1<wbr>'));
+            });
+        
+        
+        });
+    
+    </script></div><div class="captiontext text parbase section"><p>&nbsp;</p><p><i><b>Specialty/Research Focus:&nbsp;</b>Mid-infrared and THz optoelectronics and photonics; graphene and other 2D materials based devices and systems; strongly correlated electron materials; quantum optics; quantum cascade lasers; chemical and biological sensing.</i></p></div><div class="hr section hrline" style="clear:left;"></div><div class="staffdirectory imagebase section"><div class="staff_member"><div class="staff_photo "><a href="/ee/faculty/faculty_directory/nicholas-mastronarde.html"><picture><img height="60" alt="Photo of Nick Mastronarde" width="60" class="img-60 img-60x60 cq-dd-image" src="/content/engineering/ee/faculty/faculty_directory/_jcr_content/par/staffdirectory_9.img.60.60.jpg/1502726406677.jpg" srcset="/content/engineering/ee/faculty/faculty_directory/jcr:content/par/staffdirectory_9.img.120.120.q65.jpg/1502726406677.jpg 2x"></picture></a></div><div class="staff_name -name"><p><span class="staff_name_bolded"><a href='/ee/faculty/faculty_directory/nicholas-mastronarde.html'>Nicholas Mastronarde</a></span></p><p><span class="staff_title_italic">Associate Professor</span><br/></p><p><span>Ph.D., Univ. of California, Los Angeles</span></p></div><div class="staff_contact -contact"><p>226 Davis Hall</p><p>Phone: (716) 645-1537</p><p>Email: <a class="longtext" href="mailto:nmastron@buffalo.edu">nmastron@buffalo.edu</a></p></div><div class="clear_all"></div></div><script>
+    
+        jQuery(document).ready(function(){
+        
+            jQuery('.staffdirectory .longtext').each(function() {
+               jQuery(this).removeClass("longtext");
+               jQuery(this).html(jQuery(this).html().replace(/(\/|\?|=|\&|%|@)/g, '$1<wbr>'));
+            });
+        
+        
+        });
+    
+    </script></div><div class="captiontext text parbase section"><p>&nbsp;</p><p><i><b>Specialty/Research Focus:&nbsp;</b>Energy-Efficient Multimedia Systems, Resource Allocation and Scheduling in Wireless Networks and Systems, Parallel Video Encoding and Decoding, Dynamic Power Management, Cross-Layer Design and Optimization, Markov Decision Processes, Reinforcement Learning</i></p></div><div class="hr section hrline" style="clear:left;"></div><div class="staffdirectory imagebase section"><div class="staff_member"><div class="staff_photo "><a href="/ee/faculty/faculty_directory/vladimir-mitin.html"><picture><img height="60" alt="Picture of Vladimir Mitin" width="60" class="img-60 img-60x60 cq-dd-image" src="/content/engineering/ee/faculty/faculty_directory/_jcr_content/par/staffdirectory_27.img.60.60.jpg/1383227385568.jpg" srcset="/content/engineering/ee/faculty/faculty_directory/jcr:content/par/staffdirectory_27.img.120.120.q65.jpg/1383227385568.jpg 2x"></picture></a></div><div class="staff_name -name"><p><span class="staff_name_bolded"><a href='/ee/faculty/faculty_directory/vladimir-mitin.html'>Vladimir Mitin</a></span></p><p><span class="staff_title_italic">SUNY Distinguished Professor</span><br/></p><p><span>Ph.D., Ukrainian Academy of Sciences</span></p></div><div class="staff_contact -contact"><p>312 C Bonner Hall</p><p>Phone: (716) 645-1036</p><p>Email: <a class="longtext" href="mailto:vmitin@buffalo.edu">vmitin@buffalo.edu</a></p></div><div class="clear_all"></div></div><script>
+    
+        jQuery(document).ready(function(){
+        
+            jQuery('.staffdirectory .longtext').each(function() {
+               jQuery(this).removeClass("longtext");
+               jQuery(this).html(jQuery(this).html().replace(/(\/|\?|=|\&|%|@)/g, '$1<wbr>'));
+            });
+        
+        
+        });
+    
+    </script></div><div class="captiontext text parbase section"><p>&nbsp;</p><p><i><b>Specialty/Research Focus:&nbsp;</b></i>&nbsp;<i>Nanoelectronic, Microelectric and Optoelectronic Devices and Materials; Transport and Noise in Heterostructures, Thin Films, Quantum Wells and Quantum Wires; Simulation, Design and Testing of&nbsp; Photodetectors, Terahertz Sensors and Solar Cells</i></p></div><div class="hr section hrline" style="clear:left;"></div><div class="staffdirectory imagebase section"><div class="staff_member"><div class="staff_photo "><a href="/ee/faculty/faculty_directory/kwang-oh.html"><picture><img height="60" alt="Photo of Kwang Oh" width="60" class="img-60 img-60x60 cq-dd-image" src="/content/engineering/ee/faculty/faculty_directory/_jcr_content/par/staffdirectory_25.img.60.60.jpg/1532011432762.jpg" srcset="/content/engineering/ee/faculty/faculty_directory/jcr:content/par/staffdirectory_25.img.120.120.q65.jpg/1532011432762.jpg 2x"></picture></a></div><div class="staff_name -name"><p><span class="staff_name_bolded"><a href='/ee/faculty/faculty_directory/kwang-oh.html'>Kwang Oh</a></span></p><p><span class="staff_title_italic">Professor</span><br/></p><p><span>Ph.D., University of Cincinnati</span></p></div><div class="staff_contact -contact"><p>113 C Davis Hall</p><p>Phone: (716) 645-1025</p><p>Email: <a class="longtext" href="mailto:kwangoh@buffalo.edu">kwangoh@buffalo.edu</a></p></div><div class="clear_all"></div></div><script>
+    
+        jQuery(document).ready(function(){
+        
+            jQuery('.staffdirectory .longtext').each(function() {
+               jQuery(this).removeClass("longtext");
+               jQuery(this).html(jQuery(this).html().replace(/(\/|\?|=|\&|%|@)/g, '$1<wbr>'));
+            });
+        
+        
+        });
+    
+    </script></div><div class="captiontext text parbase section"><p>&nbsp;</p><p><i><b>Specialty/Research Focus:&nbsp;</b></i>LOC (lab-on-a-chip), MicroTAS (Micro Total Analysis Systems), BioMEMS (Bio Micro Electro Mechanical Systems), SANS (Sample-to-Answer Nano/microfluidic Systems), Nanobiosensors for Bio/Chemical/Environmental Applications, World-to-Chip Interfacing and Packaging, Single Cell Manipulation, Sorting, Detection; Microvalves, Micropumps, Microfluidics</p></div><div class="hr section hrline" style="clear:left;"></div><div class="staffdirectory imagebase section"><div class="staff_member"><div class="staff_photo "><a href="/ee/faculty/faculty_directory/vasili-perebeinos.html"><picture><img height="60" alt="photo of vasili perebeinos" width="60" class="img-60 img-60x60 cq-dd-image" src="/content/engineering/ee/faculty/faculty_directory/_jcr_content/par/staffdirectory_718046394.img.60.60.jpg/1540913617452.jpg" srcset="/content/engineering/ee/faculty/faculty_directory/jcr:content/par/staffdirectory_718046394.img.120.120.q65.jpg/1540913617452.jpg 2x"></picture></a></div><div class="staff_name -name"><p><span class="staff_name_bolded"><a href='/ee/faculty/faculty_directory/vasili-perebeinos.html'>Vasili Perebeinos</a></span></p><p><span class="staff_title_italic">Professor</span><br/></p><p><span>Ph.D., Stony Brook University</span></p></div><div class="staff_contact -contact"><p>230 I Davis Hall</p><p>Phone: (716) 645-1606</p><p>Email: <a class="longtext" href="mailto:vasilipe@buffalo.edu">vasilipe@buffalo.edu</a></p></div><div class="clear_all"></div></div><script>
+    
+        jQuery(document).ready(function(){
+        
+            jQuery('.staffdirectory .longtext').each(function() {
+               jQuery(this).removeClass("longtext");
+               jQuery(this).html(jQuery(this).html().replace(/(\/|\?|=|\&|%|@)/g, '$1<wbr>'));
+            });
+        
+        
+        });
+    
+    </script></div><div class="captiontext text parbase section"><p>&nbsp;</p><p><i><b>Specialty/Research Focus:&nbsp;</b></i>Theory and modelling of electrical and optical properties of low dimensional materials, such as carbon nanotubes, graphene, and other 2D materials&nbsp;</p></div><div class="hr section hrline" style="clear:left;"></div><div class="staffdirectory imagebase section"><div class="staff_member"><div class="staff_photo "><a href="/ee/faculty/faculty_directory/paras-prasad.html"><picture><img height="60" alt="paras prasad " width="60" class="img-60 img-60x60 cq-dd-image" src="/content/engineering/ee/faculty/faculty_directory/_jcr_content/par/staffdirectory_23.img.60.60.jpg/1533659144407.jpg" srcset="/content/engineering/ee/faculty/faculty_directory/jcr:content/par/staffdirectory_23.img.120.120.q65.jpg/1533659144407.jpg 2x"></picture></a></div><div class="staff_name -name"><p><span class="staff_name_bolded"><a href='/ee/faculty/faculty_directory/paras-prasad.html'>Paras Prasad</a></span></p><p><span class="staff_title_italic">SUNY Distinguished Professor</span><br/></p><p><span>Ph.D., University of Pennsylvania</span></p></div><div class="staff_contact -contact"><p>428 Natural Sciences Complex</p><p>Phone: (716) 645-4148</p><p>Email: <a class="longtext" href="mailto:pnprasad@buffalo.edu">pnprasad@buffalo.edu</a></p></div><div class="clear_all"></div></div><script>
+    
+        jQuery(document).ready(function(){
+        
+            jQuery('.staffdirectory .longtext').each(function() {
+               jQuery(this).removeClass("longtext");
+               jQuery(this).html(jQuery(this).html().replace(/(\/|\?|=|\&|%|@)/g, '$1<wbr>'));
+            });
+        
+        
+        });
+    
+    </script></div><div class="captiontext text parbase section"><p>&nbsp;</p><p><i><b>Specialty/Research Focus:&nbsp;</b>Preparation, Processing and Theoretical Modeling of Nanostructured Photonic Materials; Biophotonics; Nonlinear Optical Processes; Metamaterials</i></p></div><div class="hr section hrline" style="clear:left;"></div><div class="staffdirectory imagebase section"><div class="staff_member"><div class="staff_photo "><a href="/ee/faculty/faculty_directory/arindam-sanyal.html"><picture><img height="60" alt="sanyal " width="60" class="img-60 img-60x60 cq-dd-image" src="/content/engineering/ee/faculty/faculty_directory/_jcr_content/par/staffdirectory.img.60.60.jpg/1483458793186.jpg" srcset="/content/engineering/ee/faculty/faculty_directory/jcr:content/par/staffdirectory.img.120.120.q65.jpg/1483458793186.jpg 2x"></picture></a></div><div class="staff_name -name"><p><span class="staff_name_bolded"><a href='/ee/faculty/faculty_directory/arindam-sanyal.html'>Arindam Sanyal</a></span></p><p><span class="staff_title_italic">Assistant Professor</span><br/></p><p><span>Ph.D., University of Texas at Austin</span></p></div><div class="staff_contact -contact"><p>230 F Davis Hall</p><p>Phone: (716) 645-9166</p><p>Email: <a class="longtext" href="mailto:arindams@buffalo.edu">arindams@buffalo.edu</a></p></div><div class="clear_all"></div></div><script>
+    
+        jQuery(document).ready(function(){
+        
+            jQuery('.staffdirectory .longtext').each(function() {
+               jQuery(this).removeClass("longtext");
+               jQuery(this).html(jQuery(this).html().replace(/(\/|\?|=|\&|%|@)/g, '$1<wbr>'));
+            });
+        
+        
+        });
+    
+    </script></div><div class="captiontext text parbase section"><p>&nbsp;</p><p><b>Specialty/Research Focus:</b> Analog, mixed-signal integrated design; time-domain ADC design; mismatch and ISI shaping in DACs; analog circuit design for biomedical applications</p></div><div class="hr section hrline" style="clear:left;"></div><div class="hr section blank" style="clear:left;"></div><div class="staffdirectory imagebase section"><div class="staff_member"><div class="staff_photo "><a href="/ee/faculty/faculty_directory/uttam-singisetti.html"><picture><img height="60" alt="Photo of Uttam Singisetti" width="60" class="img-60 img-60x60 cq-dd-image" src="/content/engineering/ee/faculty/faculty_directory/_jcr_content/par/staffdirectory_21.img.60.60.png/1502726565678.png" srcset="/content/engineering/ee/faculty/faculty_directory/jcr:content/par/staffdirectory_21.img.120.120.q65.png/1502726565678.png 2x"></picture></a></div><div class="staff_name -name"><p><span class="staff_name_bolded"><a href='/ee/faculty/faculty_directory/uttam-singisetti.html'>Uttam Singisetti</a></span></p><p><span class="staff_title_italic">Associate Professor</span><br/></p><p><span>Ph.D., Univ. of California, Santa Barbara</span></p></div><div class="staff_contact -contact"><p>230 H Davis Hall</p><p>Phone: (716) 645-1536</p><p>Email: <a class="longtext" href="mailto:uttamsin@buffalo.edu">uttamsin@buffalo.edu</a></p></div><div class="clear_all"></div></div><script>
+    
+        jQuery(document).ready(function(){
+        
+            jQuery('.staffdirectory .longtext').each(function() {
+               jQuery(this).removeClass("longtext");
+               jQuery(this).html(jQuery(this).html().replace(/(\/|\?|=|\&|%|@)/g, '$1<wbr>'));
+            });
+        
+        
+        });
+    
+    </script></div><div class="captiontext text parbase section"><p>&nbsp;</p><p><i><b>Specialty/Research Focus:&nbsp;</b>Advanced GaN and Novel III-N Devices for THz electronics; Transport in III-N Hetero-Structures; Novel Devices Utilizing New Materials Functionalities; Energy-Efficient, Nano-Electronics in Emerging Materials</i></p></div><div class="hr section hrline" style="clear:left;"></div><div class="staffdirectory imagebase section"><div class="staff_member"><div class="staff_photo "><a href="/ee/faculty/faculty_directory/konstantinos-slavakis.html"><picture><img height="60" alt="kostas slavakis " width="60" class="img-60 img-60x60 cq-dd-image" src="/content/engineering/ee/faculty/faculty_directory/_jcr_content/par/staffdirectory_19.img.60.60.jpg/1509051172307.jpg" srcset="/content/engineering/ee/faculty/faculty_directory/jcr:content/par/staffdirectory_19.img.120.120.q65.jpg/1509051172307.jpg 2x"></picture></a></div><div class="staff_name -name"><p><span class="staff_name_bolded"><a href='/ee/faculty/faculty_directory/konstantinos-slavakis.html'>Konstantinos Slavakis</a></span></p><p><span class="staff_title_italic">Associate Professor</span><br/></p><p><span>Ph.D., Tokyo Institute of Technology</span></p></div><div class="staff_contact -contact"><p>225 Davis Hall</p><p>Phone: (716) 645-1012</p><p>Email: <a class="longtext" href="mailto:kslavaki@buffalo.edu">kslavaki@buffalo.edu</a></p></div><div class="clear_all"></div></div><script>
+    
+        jQuery(document).ready(function(){
+        
+            jQuery('.staffdirectory .longtext').each(function() {
+               jQuery(this).removeClass("longtext");
+               jQuery(this).html(jQuery(this).html().replace(/(\/|\?|=|\&|%|@)/g, '$1<wbr>'));
+            });
+        
+        
+        });
+    
+    </script></div><div class="captiontext text parbase section"><p>&nbsp;</p><p><i><b>Specialty/Research Focus:&nbsp;</b>Signal processing; Machine learning; Big data analytics; (Stochastic) optimization; Online learning; Adaptive signal processing; Dimensionality reduction; Clustering; Image processing; Communications<br/> </i></p></div><div class="hr section hrline" style="clear:left;"></div><div class="staffdirectory imagebase section"><div class="staff_member"><div class="staff_photo "><a href="/ee/faculty/faculty_directory/weifeng-su.html"><picture><img height="60" alt="photo of weifeng su" width="60" class="img-60 img-60x60 cq-dd-image" src="/content/engineering/ee/faculty/faculty_directory/_jcr_content/par/staffdirectory_17.img.60.60.jpg/1532011607988.jpg" srcset="/content/engineering/ee/faculty/faculty_directory/jcr:content/par/staffdirectory_17.img.120.120.q65.jpg/1532011607988.jpg 2x"></picture></a></div><div class="staff_name -name"><p><span class="staff_name_bolded"><a href='/ee/faculty/faculty_directory/weifeng-su.html'>Weifeng Su</a></span></p><p><span class="staff_title_italic">Professor</span><br/></p><p><span>Ph.D., University of Delaware</span></p></div><div class="staff_contact -contact"><p>227 Davis Hall</p><p>Phone: (716) 645-1028</p><p>Email: <a class="longtext" href="mailto:weifeng@buffalo.edu">weifeng@buffalo.edu</a></p></div><div class="clear_all"></div></div><script>
+    
+        jQuery(document).ready(function(){
+        
+            jQuery('.staffdirectory .longtext').each(function() {
+               jQuery(this).removeClass("longtext");
+               jQuery(this).html(jQuery(this).html().replace(/(\/|\?|=|\&|%|@)/g, '$1<wbr>'));
+            });
+        
+        
+        });
+    
+    </script></div><div class="captiontext text parbase section"><p>&nbsp;</p><p><i><b>Specialty/Research Focus:&nbsp;</b>Wireless Communications and Networking, MIMO Systems and Space-Time Coding, MIMO-OFDM Systems, Cooperative Communications for Wireless Networks</i></p></div><div class="hr section hrline" style="clear:left;"></div><div class="staffdirectory imagebase section"><div class="staff_member"><div class="staff_photo "><a href="/ee/faculty/faculty_directory/zhi-sun.html"><picture><img height="60" alt="photo of zhi sun" width="60" class="img-60 img-60x60 cq-dd-image" src="/content/engineering/ee/faculty/faculty_directory/_jcr_content/par/staffdirectory_31.img.60.60.jpg/1532011731008.jpg" srcset="/content/engineering/ee/faculty/faculty_directory/jcr:content/par/staffdirectory_31.img.120.120.q65.jpg/1532011731008.jpg 2x"></picture></a></div><div class="staff_name -name"><p><span class="staff_name_bolded"><a href='/ee/faculty/faculty_directory/zhi-sun.html'>Zhi Sun</a></span></p><p><span class="staff_title_italic">Associate Professor</span><br/></p><p><span>Ph.D., Georgia Institute of Technology</span></p></div><div class="staff_contact -contact"><p>218 Davis Hall</p><p>Phone: (716) 645-1608</p><p>Email: <a class="longtext" href="mailto:zhisun@buffalo.edu">zhisun@buffalo.edu</a></p></div><div class="clear_all"></div></div><script>
+    
+        jQuery(document).ready(function(){
+        
+            jQuery('.staffdirectory .longtext').each(function() {
+               jQuery(this).removeClass("longtext");
+               jQuery(this).html(jQuery(this).html().replace(/(\/|\?|=|\&|%|@)/g, '$1<wbr>'));
+            });
+        
+        
+        });
+    
+    </script></div><div class="captiontext text parbase section"><p>&nbsp;</p><p><i><b>Specialty/Research Focus:&nbsp;</b>Wireless Communications and Networking, especially Wireless Communications in Extreme Environments, Wireless Sensor Networks, Wireless Underground Networks, Wireless Intra-Body Networks, Cyber Physical Systems</i></p></div><div class="hr section hrline" style="clear:left;"></div><div class="staffdirectory imagebase section"><div class="staff_member"><div class="staff_photo "><a href="/ee/faculty/faculty_directory/chu-ryang-wie.html"><picture><img height="60" alt="Chu Ryang Wie" width="60" class="img-60 img-60x60 cq-dd-image" src="/content/engineering/ee/faculty/faculty_directory/_jcr_content/par/staffdirectory_29.img.60.60.jpg/1385411833969.jpg" srcset="/content/engineering/ee/faculty/faculty_directory/jcr:content/par/staffdirectory_29.img.120.120.q65.jpg/1385411833969.jpg 2x"></picture></a></div><div class="staff_name -name"><p><span class="staff_name_bolded"><a href='/ee/faculty/faculty_directory/chu-ryang-wie.html'>Chu-Ryang Wie</a></span></p><p><span class="staff_title_italic">Professor</span><br/></p><p><span>Ph.D., California Institute of Technology</span></p></div><div class="staff_contact -contact"><p>230 B Davis Hall</p><p>Phone: (716) 645-1023</p><p>Email: <a class="longtext" href="mailto:wie@buffalo.edu">wie@buffalo.edu</a></p></div><div class="clear_all"></div></div><script>
+    
+        jQuery(document).ready(function(){
+        
+            jQuery('.staffdirectory .longtext').each(function() {
+               jQuery(this).removeClass("longtext");
+               jQuery(this).html(jQuery(this).html().replace(/(\/|\?|=|\&|%|@)/g, '$1<wbr>'));
+            });
+        
+        
+        });
+    
+    </script></div><div class="captiontext text parbase section"><p>&nbsp;</p><p><i><b>Specialty/Research Focus:&nbsp;</b>Semiconductor devices - device reliability under voltage/current stress, radiation (gamma-ray, proton, x-ray) effect, X-ray analysis of semiconductor materials such as metamorphic buffer materials using reciprocal space mapping and other x-ray methods, Semiconductor nanodevice visual simulation, quantum entanglement and visualization</i></p></div><div class="hr section hrline" style="clear:left;"></div><div class="staffdirectory imagebase section"><div class="staff_member"><div class="staff_photo "><a href="/ee/faculty/faculty_directory/xiu-yao.html"><picture><img height="60" alt="Xiu Yao " width="60" class="img-60 img-60x60 cq-dd-image" src="/content/engineering/ee/faculty/faculty_directory/_jcr_content/par/staffdirectory_16.img.60.60.jpg/1533575143731.jpg" srcset="/content/engineering/ee/faculty/faculty_directory/jcr:content/par/staffdirectory_16.img.120.120.q65.jpg/1533575143731.jpg 2x"></picture></a></div><div class="staff_name -name"><p><span class="staff_name_bolded"><a href='/ee/faculty/faculty_directory/xiu-yao.html'>Xiu Yao</a></span></p><p><span class="staff_title_italic">Assistant Professor</span><br/></p><p><span>Ph.D., The Ohio State University </span></p></div><div class="staff_contact -contact"><p>210 Davis Hall</p><p>Phone: (716) 645-1027</p><p>Email: <a class="longtext" href="mailto:xiuyao@buffalo.edu">xiuyao@buffalo.edu</a></p></div><div class="clear_all"></div></div><script>
+    
+        jQuery(document).ready(function(){
+        
+            jQuery('.staffdirectory .longtext').each(function() {
+               jQuery(this).removeClass("longtext");
+               jQuery(this).html(jQuery(this).html().replace(/(\/|\?|=|\&|%|@)/g, '$1<wbr>'));
+            });
+        
+        
+        });
+    
+    </script></div><div class="captiontext text parbase section"><p>&nbsp;</p><p><i><b>Specialty/Research Focus:&nbsp;</b>Power electronics, Microgrid control and protection, High voltage dc transmission, High voltage engineering</i></p></div><div class="hr section hrline" style="clear:left;"></div><div class="staffdirectory imagebase section"><div class="staff_member"><div class="staff_photo "><a href="/ee/faculty/faculty_directory/leslie-ying.html"><picture><img height="60" alt="Photo of Leslie Ying" width="60" class="img-60 img-60x60 cq-dd-image" src="/content/engineering/ee/faculty/faculty_directory/_jcr_content/par/staffdirectory_28.img.60.60.jpg/1515165873908.jpg" srcset="/content/engineering/ee/faculty/faculty_directory/jcr:content/par/staffdirectory_28.img.120.120.q65.jpg/1515165873908.jpg 2x"></picture></a></div><div class="staff_name -name"><p><span class="staff_name_bolded"><a href='/ee/faculty/faculty_directory/leslie-ying.html'>Leslie (Lei) Ying</a></span></p><p><span class="staff_title_italic">Professor</span><br/></p><p><span>Ph.D., Univ. of Illinois Urbana-Champaign</span></p></div><div class="staff_contact -contact"><p>223 Davis Hall</p><p>Phone: (716) 645-1609</p><p>Email: <a class="longtext" href="mailto:leiying@buffalo.edu">leiying@buffalo.edu</a></p></div><div class="clear_all"></div></div><script>
+    
+        jQuery(document).ready(function(){
+        
+            jQuery('.staffdirectory .longtext').each(function() {
+               jQuery(this).removeClass("longtext");
+               jQuery(this).html(jQuery(this).html().replace(/(\/|\?|=|\&|%|@)/g, '$1<wbr>'));
+            });
+        
+        
+        });
+    
+    </script></div><div class="captiontext text parbase section"><p>&nbsp;</p><p><i><b>Specialty/Research Focus:&nbsp;</b>Compressed sensing, Magnetic resonance imaging, Image reconstruction</i></p></div><div class="hr section hrline" style="clear:left;"></div><div class="staffdirectory imagebase section"><div class="staff_member"><div class="staff_photo "><a href="/ee/faculty/faculty_directory/jennifer-zirnheld.html"><picture><img height="60" alt="zirnheld " width="60" class="img-60 img-60x60 cq-dd-image" src="/content/engineering/ee/faculty/faculty_directory/_jcr_content/par/staffdirectory_22.img.60.60.jpg/1509051443536.jpg" srcset="/content/engineering/ee/faculty/faculty_directory/jcr:content/par/staffdirectory_22.img.120.120.q65.jpg/1509051443536.jpg 2x"></picture></a></div><div class="staff_name -name"><p><span class="staff_name_bolded"><a href='/ee/faculty/faculty_directory/jennifer-zirnheld.html'>Jennifer Zirnheld</a></span></p><p><span class="staff_title_italic">Maxwell Technologies Inc. Professor</span><br/></p><p><span>Ph.D., University at Buffalo</span></p></div><div class="staff_contact -contact"><p>213 Davis Hall</p><p>Phone: (716) 645-1033</p><p>Email: <a class="longtext" href="mailto:zirnheld@buffalo.edu">zirnheld@buffalo.edu</a></p></div><div class="clear_all"></div></div><script>
+    
+        jQuery(document).ready(function(){
+        
+            jQuery('.staffdirectory .longtext').each(function() {
+               jQuery(this).removeClass("longtext");
+               jQuery(this).html(jQuery(this).html().replace(/(\/|\?|=|\&|%|@)/g, '$1<wbr>'));
+            });
+        
+        
+        });
+    
+    </script></div><div class="captiontext text parbase section"><p>&nbsp;</p><p><i><b>Specialty/Research Focus:&nbsp;</b>Insulation Coordination; Energy Systems; Mobility Platforms; Nano-Dielectrics</i></p></div><div class="hr section hrline" style="clear:left;"></div><div class="staffdirectory imagebase section"><div class="staff_member"><div class="staff_photo "><a href="/ee/faculty/faculty_directory/shaofeng-zou.html"><picture><img height="60" alt="photo of shaofeng zou" width="60" class="img-60 img-60x60 cq-dd-image" src="/content/engineering/ee/faculty/faculty_directory/_jcr_content/par/staffdirectory_1696793296.img.60.60.jpg/1539796528886.jpg" srcset="/content/engineering/ee/faculty/faculty_directory/jcr:content/par/staffdirectory_1696793296.img.120.120.q65.jpg/1539796528886.jpg 2x"></picture></a></div><div class="staff_name -name"><p><span class="staff_name_bolded"><a href='/ee/faculty/faculty_directory/shaofeng-zou.html'>Shaofeng Zou</a></span></p><p><span class="staff_title_italic">Assistant Professor</span><br/></p><p><span>Ph.D., Syracuse University</span></p></div><div class="staff_contact -contact"><p>228 Davis Hall</p><p>Phone: (716) 645-1053</p><p>Email: <a class="longtext" href="mailto:szou3@buffalo.edu">szou3@buffalo.edu</a></p></div><div class="clear_all"></div></div><script>
+    
+        jQuery(document).ready(function(){
+        
+            jQuery('.staffdirectory .longtext').each(function() {
+               jQuery(this).removeClass("longtext");
+               jQuery(this).html(jQuery(this).html().replace(/(\/|\?|=|\&|%|@)/g, '$1<wbr>'));
+            });
+        
+        
+        });
+    
+    </script></div><div class="captiontext text parbase section"><p>&nbsp;</p><p><i><b>Specialty/Research Focus:</b> Statistical signal processing, statistical learning theory, information theory, sensor networks, cyber-physical systems and wireless networks.</i></p></div><div class="hr section hrline" style="clear:left;"></div><div class="title section"><h2 id="title_0">Teaching Faculty</h2></div><div class="staffdirectory imagebase section"><div class="staff_member"><div class="staff_photo "><a href="/ee/faculty/faculty_directory/elena-bernal-mor.html"><picture><img height="60" alt="Elena Bernal Mor " width="60" class="img-60 img-60x60 cq-dd-image" src="/content/engineering/ee/faculty/faculty_directory/_jcr_content/par/staffdirectory_6.img.60.60.jpg/1509050275828.jpg" srcset="/content/engineering/ee/faculty/faculty_directory/jcr:content/par/staffdirectory_6.img.120.120.q65.jpg/1509050275828.jpg 2x"></picture></a></div><div class="staff_name -name"><p><span class="staff_name_bolded"><a href='/ee/faculty/faculty_directory/elena-bernal-mor.html'>Elena Bernal Mor</a></span></p><p><span class="staff_title_italic">Teaching Assistant Professor</span><br/></p><p><span>Ph.D., Universitat Politècnica de València</span></p></div><div class="staff_contact -contact"><p>209 Davis Hall</p><p>Phone: (716) 645-9140</p><p>Email: <a class="longtext" href="mailto:elbermo@buffalo.edu">elbermo@buffalo.edu</a></p></div><div class="clear_all"></div></div><script>
+    
+        jQuery(document).ready(function(){
+        
+            jQuery('.staffdirectory .longtext').each(function() {
+               jQuery(this).removeClass("longtext");
+               jQuery(this).html(jQuery(this).html().replace(/(\/|\?|=|\&|%|@)/g, '$1<wbr>'));
+            });
+        
+        
+        });
+    
+    </script></div><div class="captiontext text parbase section"><p><i><b><br/> Specialty/Research Focus</b>: Performance evaluation and resource management for communication networks, traffic engineering and provisioning of quality of service in different types of wireless networks, ranging from mobile cellular systems to Dynamic Spectrum Access networks</i></p></div><div class="hr section hrline" style="clear:left;"></div><div class="staffdirectory imagebase section"><div class="staff_member"><div class="staff_photo "><a href="/ee/faculty/faculty_directory/kevin-burke.html"><picture><img height="60" alt="kevin burke " width="60" class="img-60 img-60x60 cq-dd-image" src="/content/engineering/ee/faculty/faculty_directory/_jcr_content/par/staffdirectory_10.img.60.60.jpg/1509050923378.jpg" srcset="/content/engineering/ee/faculty/faculty_directory/jcr:content/par/staffdirectory_10.img.120.120.q65.jpg/1509050923378.jpg 2x"></picture></a></div><div class="staff_name -name"><p><span class="staff_name_bolded"><a href='/ee/faculty/faculty_directory/kevin-burke.html'>Kevin Burke</a></span></p><p><span class="staff_title_italic">Teaching Assistant Professor</span><br/></p><p><span>Ph.D., University at Buffalo</span></p></div><div class="staff_contact -contact"><p>220 Davis Hall</p><p>Phone: (716) 645-1038</p><p>Email: <a class="longtext" href="mailto:kmburke@buffalo.edu">kmburke@buffalo.edu</a></p></div><div class="clear_all"></div></div><script>
+    
+        jQuery(document).ready(function(){
+        
+            jQuery('.staffdirectory .longtext').each(function() {
+               jQuery(this).removeClass("longtext");
+               jQuery(this).html(jQuery(this).html().replace(/(\/|\?|=|\&|%|@)/g, '$1<wbr>'));
+            });
+        
+        
+        });
+    
+    </script></div><div class="captiontext text parbase section"><p>&nbsp;</p><p><i><b>Specialty/Research Focus</b>: Power and Energy Management, Power Transmission and Distribution, Dielectric Phenomena, Pulsed Power, Insulation Performance/Reliability&nbsp;</i></p></div><div class="hr section hrline" style="clear:left;"></div><div class="title section"><h2 id="title_2015667799">Research Faculty</h2></div><div class="staffdirectory imagebase section"><div class="staff_member"><div class="staff_photo "><a href="/ee/faculty/faculty_directory/filippo-malandra.html"><picture><img height="60" alt="Filippo Malandra" width="60" class="img-60 img-60x60 cq-dd-image" src="/content/engineering/ee/faculty/faculty_directory/_jcr_content/par/staffdirectory_812844705.img.60.60.jpg/1548775178238.jpg" srcset="/content/engineering/ee/faculty/faculty_directory/jcr:content/par/staffdirectory_812844705.img.120.120.q65.jpg/1548775178238.jpg 2x"></picture></a></div><div class="staff_name -name"><p><span class="staff_name_bolded"><a href='/ee/faculty/faculty_directory/filippo-malandra.html'>Filippo Malandra</a></span></p><p><span class="staff_title_italic">Research Assistant Professor</span><br/></p><p><span>Ph.D., Ecole Polytechnique de Montréal</span></p></div><div class="staff_contact -contact"><p>230 C Davis Hall</p><p>Phone: (716) 645-1151</p><p>Email: <a class="longtext" href="mailto:filippom@buffalo.edu">filippom@buffalo.edu</a></p></div><div class="clear_all"></div></div><script>
+    
+        jQuery(document).ready(function(){
+        
+            jQuery('.staffdirectory .longtext').each(function() {
+               jQuery(this).removeClass("longtext");
+               jQuery(this).html(jQuery(this).html().replace(/(\/|\?|=|\&|%|@)/g, '$1<wbr>'));
+            });
+        
+        
+        });
+    
+    </script></div><div class="captiontext text parbase section"><p><i><b><br/> Specialty/Research Focus</b>:&nbsp;Internet of Things, Wireless Communications, Cellular&nbsp;networks (4G/5G), Network performance analysis and simulation, Communications for the Smart Grid, Optimization, Machine learning.&#8203;</i></p></div><div class="hr section hrline" style="clear:left;"></div><div class="title section"><h2 id="title_4">Affiliated Faculty </h2></div><div class="staffdirectory imagebase section"><div class="staff_member"><div class="staff_photo "><a href="https://arts-sciences.buffalo.edu/physics/faculty/athos-petrou.html"><picture><img height="60" alt="athos petrou " width="60" class="img-60 img-60x60 cq-dd-image" src="/content/engineering/ee/faculty/faculty_directory/_jcr_content/par/staffdirectory_208394198.img.60.60.jpg/1510260814548.jpg" srcset="/content/engineering/ee/faculty/faculty_directory/jcr:content/par/staffdirectory_208394198.img.120.120.q65.jpg/1510260814548.jpg 2x"></picture></a></div><div class="staff_name -name"><p><span class="staff_name_bolded"><a href='https://arts-sciences.buffalo.edu/physics/faculty/athos-petrou.html'>Athos Petrou</a></span></p><p><span class="staff_title_italic">UB Distinguished Professor</span><br/></p><p><span>Ph.D., Purdue University </span></p></div><div class="staff_contact -contact"><p>327 Fronczak</p><p>Phone: (716) 645-6183</p><p>Email: <a class="longtext" href="mailto:petrou@buffalo.edu">petrou@buffalo.edu</a></p></div><div class="clear_all"></div></div><script>
+    
+        jQuery(document).ready(function(){
+        
+            jQuery('.staffdirectory .longtext').each(function() {
+               jQuery(this).removeClass("longtext");
+               jQuery(this).html(jQuery(this).html().replace(/(\/|\?|=|\&|%|@)/g, '$1<wbr>'));
+            });
+        
+        
+        });
+    
+    </script></div><div class="captiontext text parbase section"><p>&nbsp;</p><p><i><b>Specialty/Research Focus:&nbsp;</b></i>Magneto-spectroscopy in the visible and near-infrared of semiconductor nanostructures and devices.</p></div><div class="hr section hrline" style="clear:left;"></div><div class="staffdirectory imagebase section"><div class="staff_member"><div class="staff_photo "><a href="/ee/faculty/faculty_directory/profile-template10.html"><picture><img height="60" alt="Photo of Albert Titus" width="60" class="img-60 img-60x60 cq-dd-image" src="/content/engineering/ee/faculty/faculty_directory/_jcr_content/par/staffdirectory_30.img.60.60.jpg/1439319200541.jpg" srcset="/content/engineering/ee/faculty/faculty_directory/jcr:content/par/staffdirectory_30.img.120.120.q65.jpg/1439319200541.jpg 2x"></picture></a></div><div class="staff_name -name"><p><span class="staff_name_bolded"><a href='/ee/faculty/faculty_directory/profile-template10.html'>Albert Titus</a></span></p><p><span class="staff_title_italic">Adjunct Professor</span><br/></p><p><span>Ph.D., Georgia Institute of Technology</span></p></div><div class="staff_contact -contact"><p>230 J Davis Hall</p><p>Phone: (716) 645-1019</p><p>Email: <a class="longtext" href="mailto:ahtitus@buffalo.edu">ahtitus@buffalo.edu</a></p></div><div class="clear_all"></div></div><script>
+    
+        jQuery(document).ready(function(){
+        
+            jQuery('.staffdirectory .longtext').each(function() {
+               jQuery(this).removeClass("longtext");
+               jQuery(this).html(jQuery(this).html().replace(/(\/|\?|=|\&|%|@)/g, '$1<wbr>'));
+            });
+        
+        
+        });
+    
+    </script></div><div class="captiontext text parbase section"><p>&nbsp;</p><p><i><b>Specialty/Research Focus:&nbsp;</b>Analog VLSI Design; Silicon-Based Neuromorphic Visual Processing Systems; Neural Networks; Electronic Routing and Packaging Design; Electron Beam Lithography; Sensors; Optoelectronics</i></p></div><div class="hr section hrline" style="clear:left;"></div><div class="title section"><h2 id="title_3">Emeritus Faculty</h2></div><div class="staffdirectory imagebase section"><div class="staff_member"><div class="staff_photo "><picture><img height="60" alt="Wayne Anderson " width="60" class="img-60 img-60x60 cq-dd-image" src="/content/engineering/ee/faculty/faculty_directory/_jcr_content/par/staffdirectory_39.img.60.60.png/1392672344987.png" srcset="/content/engineering/ee/faculty/faculty_directory/jcr:content/par/staffdirectory_39.img.120.120.q65.png/1392672344987.png 2x"></picture></div><div class="staff_name -name"><p><span class="staff_name_bolded">Wayne Anderson</span></p><p><span class="staff_title_italic">Emeritus Professor </span><br/></p><p><span>Ph.D., University at Buffalo</span></p></div><div class="staff_contact -contact"><p>230 C Davis Hall</p><p>Phone: (716) 645-1031</p><p>Email: <a class="longtext" href="mailto:waanders@buffalo.edu">waanders@buffalo.edu</a></p></div><div class="clear_all"></div></div><script>
+    
+        jQuery(document).ready(function(){
+        
+            jQuery('.staffdirectory .longtext').each(function() {
+               jQuery(this).removeClass("longtext");
+               jQuery(this).html(jQuery(this).html().replace(/(\/|\?|=|\&|%|@)/g, '$1<wbr>'));
+            });
+        
+        
+        });
+    
+    </script></div><div class="hr section blank" style="clear:left;"></div><div class="hr section hrline" style="clear:left;"></div><div class="staffdirectory imagebase section"><div class="staff_member"><div class="staff_photo "><picture><img height="60" alt="Darold Wobschall" width="60" class="img-60 img-60x60 cq-dd-image" src="/content/engineering/ee/faculty/faculty_directory/_jcr_content/par/staffdirectory_42.img.60.60.png/1439319724819.png" srcset="/content/engineering/ee/faculty/faculty_directory/jcr:content/par/staffdirectory_42.img.120.120.q65.png/1439319724819.png 2x"></picture></div><div class="staff_name -name"><p><span class="staff_name_bolded">Darold Wobschall </span></p><p><span class="staff_title_italic">Emeritus Associate Professor</span><br/></p><p><span>Ph.D., Biophysics, University at Buffalo </span></p></div><div class="staff_contact -contact"><p>230 C Davis Hall</p><p>Phone: (716) 645-1037</p><p>Email: <a class="longtext" href="mailto:ecedcw@buffalo.edu">ecedcw@buffalo.edu</a></p></div><div class="clear_all"></div></div><script>
+    
+        jQuery(document).ready(function(){
+        
+            jQuery('.staffdirectory .longtext').each(function() {
+               jQuery(this).removeClass("longtext");
+               jQuery(this).html(jQuery(this).html().replace(/(\/|\?|=|\&|%|@)/g, '$1<wbr>'));
+            });
+        
+        
+        });
+    
+    </script></div><div class="htmlsnippet section"><div><style>
+    .staffdirectory .staff_member {
+    background: none;
+    padding-bottom: 0px;
+    }
+    
+    .captiontext p {
+    color: #535353;
+    font-size: 11px;
+    font-style: italic;
+    margin-left: 71px;
+    margin-top: -10px;
+}
+        
+</style></div></div></div><div class="mobile-content-bottom" data-set="content-bottom"></div><div class="mobile-center-or-right-bottom" data-set="center-or-right-bottom"></div><div class="mobile-center-bottom-or-right-top" data-set="mobile-center-bottom-or-right-top"></div></div></div></div></div></div></div></div></div></div></div></div><footer><div class="footer inheritedreference reference parbase"><div class="footerconfigpage contentpage page"><div class="par parsys"><div class="breadcrumbs section"><div class="breadcrumbs-inner" role="navigation" aria-label="breadcrumbs"><ul class="breadcrumb"><li><a aria-label="Department of Electrical Engineering" href="/ee.html">Department of Electrical Engineering</a> <span class="arrow"><span>&gt;</span></span></li><li><a aria-label="Department of Electrical Engineering:People" href="/ee/faculty/faculty_directory.html">People</a> <span class="arrow"><span>&gt;</span></span></li><li class="current-page">Faculty Directory</li></ul></div></div><div class="fatfooter section"><div class="footer-mode-fat"><div class="site-index-toggle"><a href="#">Site Index</a></div><div class="footer-columns footer-columns-4"><div class="footer-column footer-column-1"><div class="col1 parsys"></div></div><div class="footer-column footer-column-2"><div class="col2 parsys"></div></div><div class="footer-column footer-column-3"><div class="col3 parsys"></div></div><div class="footer-column footer-column-4"><div class="col4 parsys"></div></div></div><div><div class="footer-mode-simple"><a href="//www.buffalo.edu/"> <img class="ub-logo" src="//www.buffalo.edu/v-e541efb31faa2518c910054a542e8044/etc/designs/ubcms/images/fatfooter/ub-logo-two-line.png" alt="University at Buffalo The State University of New York" width="241" height="32"/> </a><div class="footer-columns footer-columns-1"><div class="footer-column footer-column-1"><div class="col1 parsys"><div class="title section"><h2 id="title-1"><a href="/ee.html">Department of Electrical Engineering</a></h2></div><div class="text parbase section"><p>230 Davis Hall<br/> University at Buffalo, North Campus<br/> Buffalo, NY 14260<br/> Phone:&nbsp;(716) 645-3115<br/> Fax:&nbsp;(716) 645-3656</p></div><div class="socialbutton section"><a target="_blank" aria-label="Receive our Newsletter" title="Receive our Newsletter" href="https://visitor.r20.constantcontact.com/manage/optin?v=001SvBcqN2CoydvMJMhbZOVDD_1jnQZWuLaue7SpOaKI8O7POg35hJl8zMZD97OjrLbHzy0Nehv512hNH1QnpZK1rhrQFg8koHUNHIZenhco0EvMLRW402UYDDEjPN8ZFKar1fPz_TfANXFinkT1QMDwCb4fMdovkY_qdbcnGV-1fNrIaGKh3AlsNT66mzA3W6FeguHLtuzf6s%3D" class="button rss"></a></div><div class="socialbutton section"><a target="_blank" aria-label="Visit EE on LinkedIn" title="Visit EE on LinkedIn" href="https://www.linkedin.com/groups/7448265/profile" class="button linkedin"></a></div></div></div></div><div class="copyright"><span class="copy"></span><script>jQuery(".copyright .copy").html("&copy; " + (new Date()).getFullYear());</script>&nbsp;<a href="//www.buffalo.edu/">University at Buffalo</a>. All rights reserved.&nbsp;&nbsp;|&nbsp;&nbsp;<a href="//www.buffalo.edu/administrative-services/policy1/ub-policy-lib/privacy.html">Privacy</a>&nbsp;&nbsp;|&nbsp; <a href="//www.buffalo.edu/access/about-us/contact-us.html">Accessibility</a></div></div></div></div></div></div></div></div></footer></body></html>

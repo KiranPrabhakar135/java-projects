@@ -1,0 +1,73 @@
+import java.util.LinkedList;
+import java.util.Queue;
+import java.util.Stack;
+
+public class StackUsingQueues {
+
+	public Queue<Integer> queue;
+	public Queue<Integer> tempQueue;
+	int top = 0;
+	public StackUsingQueues() {
+		queue = new LinkedList<Integer>();
+		tempQueue = new LinkedList<Integer>();
+	}
+	public void push(int x) {
+		queue.add(x);
+		this.top = x;
+	}
+	
+	public int pop() {
+		int a = this.queue.remove();
+		if (a == this.top){
+			return this.top;
+		}
+		else{
+			this.push(a);
+			return this.pop();
+		}
+		/*int removedElement = 0;
+		while(!this.queue.isEmpty()){
+			removedElement = this.queue.remove();
+			if(removedElement != top){
+				this.push(removedElement);
+				continue;
+			}			
+		}
+		return removedElement;*/
+		/*while (!this.queue.isEmpty()) {
+			int dequedElement = this.queue.remove();
+			if(dequedElement == this.top){
+				while(!tempQueue.isEmpty()){
+					int removedEle = tempQueue.remove();
+					queue.add(removedEle);
+					this.top = removedEle;
+				}				
+				return dequedElement;
+			}
+			else {
+				tempQueue.add(dequedElement);
+			}
+		}*/
+		
+	}
+	
+	public int top() {
+		return this.top;
+	}
+	public boolean empty() {
+	     return this.queue.isEmpty();
+	}
+	
+	public static void main(String[] args) {
+		StackUsingQueues stack = new StackUsingQueues();
+
+		stack.push(1);
+		stack.push(2);  
+		stack.top();   // returns 2
+		stack.pop();   // returns 2
+		stack.pop(); 
+		stack.empty();
+
+	}
+
+}

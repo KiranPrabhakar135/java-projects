@@ -1,0 +1,141 @@
+/**
+ * 
+ */
+package FrequencyStack;
+
+import java.io.IOException;
+import java.util.ArrayList;
+import java.util.Collection;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
+import java.util.Stack;
+
+
+/**
+ * @author kiran
+ *
+ */
+public class FreqStack {
+	class ItemProp{
+		public ItemProp(int count, int posFromTop, int item) {
+			this.count = count;
+			this.posFromTop = new ArrayList<Integer>();
+			this.posFromTop.add(posFromTop);
+			this.item = item;
+		}
+		int count;
+		List<Integer> posFromTop;
+		int item;
+	}
+	
+	
+	Stack<Integer> stack;
+	Map<Integer, ItemProp> itemLookupDictionary;
+	int topIndex;
+	
+	public FreqStack() {
+		stack = new Stack<Integer>();
+		itemLookupDictionary = new HashMap<Integer, ItemProp>();
+		topIndex = 0;
+	}
+	    
+	public void push(int x) {
+	    stack.push(x);
+	    this.topIndex++;
+	    if(itemLookupDictionary.containsKey(x)){
+	    	ItemProp itemProp = itemLookupDictionary.get(x);
+	    	itemProp.count++;
+	    	itemProp.posFromTop.add(topIndex);
+	    }
+	    else{
+	    	ItemProp newItemProp = new ItemProp(1,this.topIndex, x);
+	    	itemLookupDictionary.putIfAbsent(x, newItemProp);
+	    }
+	}
+	
+	public int pop() {
+	    Collection<ItemProp> itemProps = itemLookupDictionary.values();
+	    List<ItemProp> frequentItems = new ArrayList<FreqStack.ItemProp>();
+	    ItemProp maxItemProp = itemProps.iterator().next();
+	    for (ItemProp itemProp : itemProps) {
+			if(itemProp.count > maxItemProp.count){
+				maxItemProp = itemProp;
+			}
+		}
+	    for (ItemProp itemProp : itemProps) {
+			if(itemProp.count == maxItemProp.count){
+				frequentItems.add(itemProp);
+			}
+		}
+	    ItemProp requiredItemProp = null;
+	    if(frequentItems.size() == 1){
+	    	requiredItemProp = frequentItems.iterator().next();	    	
+	    }
+	    else{
+	    	Object[] frequentItemsArrayItemProps = frequentItems.toArray();
+	    	ItemProp firstItemProp = ((ItemProp)frequentItemsArrayItemProps[0]);
+	    	if(firstItemProp.posFromTop.size() > 0){
+	    		int indexFromTop = firstItemProp.posFromTop.get(firstItemProp.posFromTop.size() - 1);
+		    	int requiredIndex = 0;
+		    	for (int i = 0; i<frequentItemsArrayItemProps.length; i++) {
+		    		ItemProp itemProp = ((ItemProp)frequentItemsArrayItemProps[i]);
+		    		if(itemProp.posFromTop.size() > 0){
+		    			int offset = itemProp.posFromTop.get(itemProp.posFromTop.size() - 1);
+			    		if(offset > indexFromTop){
+			    			indexFromTop = offset;
+			    			requiredIndex = i;
+			    		}
+		    		}
+		    		
+				}
+		    	requiredItemProp = (ItemProp)frequentItemsArrayItemProps[requiredIndex];
+	    	}
+	    	
+	    }
+	    if(requiredItemProp != null){
+	    	this.performTempPopAndPush(requiredItemProp.item);
+	    	return requiredItemProp.item;
+	    }
+	    return 0;
+	}	
+	private void performTempPopAndPush(int x) {
+		Stack<Integer> tempStack = new Stack<Integer>();
+		int popedElement = this.stack.pop();
+		topIndex--;
+		while(popedElement != x){
+			tempStack.push(popedElement);
+			popedElement = this.stack.pop();
+			topIndex--;
+		}		
+		if(tempStack.size() > 0){
+			while (!tempStack.isEmpty()) {			
+				Integer integer = tempStack.pop();
+				ItemProp dictItemProp = itemLookupDictionary.get(integer);
+				if(dictItemProp.count > 0){
+					dictItemProp.count--;
+					dictItemProp.posFromTop.remove(dictItemProp.posFromTop.size() - 1);
+				}				
+				this.push(integer);
+			}
+		}
+		ItemProp dictItemProp = itemLookupDictionary.get(x);
+		dictItemProp.count--;
+		dictItemProp.posFromTop.remove(dictItemProp.posFromTop.size() - 1);	
+	}
+	public static void main (String[] args) throws IOException{
+		
+		  FreqStack obj = new FreqStack();
+		  obj.push(5);
+		  obj.push(7);
+		  obj.push(5);
+		  obj.push(7);
+		  obj.push(4);
+		  obj.push(5);
+		  obj.pop();
+		  obj.pop();
+		  obj.pop();
+		  obj.pop();
+		 
+	}
+}

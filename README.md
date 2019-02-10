@@ -1,7 +1,8 @@
 # README #
 
 This README would normally document whatever steps are necessary to get your application up and running.
-Creates a end to end web api for performing CRUD operations.
+Some implementations for ctci problems
+Springboot - Creates a end to end web spring boot api for performing CRUD operations.
 Not completely tested.
 
 ### What is this repository for? ###
